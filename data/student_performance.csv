@@ -1,0 +1,1031 @@
+student_id,name,age,gender,grade,school,math_score,science_score,english_score,history_score,art_score,study_hours_per_day,attendance_percent,study_group,internet_access,parent_education,extracurricular
+1001,Student_1,17,Female,11th,City Public School,47.0,89.0,76.0,40.0,94.0,5.9,86.0,None,Yes,Bachelor,No
+1002,Student_2,18,Female,12th,Greenwood High,82.0,82.0,86.0,97.0,81.0,5.5,82.1,None,No,High School,Yes
+1003,Student_3,16,Female,9th,Greenwood High,,56.0,40.0,97.0,57.0,3.1,59.8,Group C,No,Bachelor,Yes
+1004,Student_4,18,Female,12th,City Public School,99.0,61.0,40.0,51.0,63.0,0.6,77.9,Group C,Yes,Bachelor,No
+1005,Student_5,18,Female,11th,National Grammar,72.0,47.0,96.0,95.0,74.0,5.7,88.1,Group A,No,Bachelor,No
+1006,Student_6,15,Male,9th,City Public School,65.0,79.0,81.0,73.0,89.0,7.6,99.6,Group B,Yes,High School,No
+1007,Student_7,16,Female,11th,National Grammar,78.0,44.0,93.0,35.0,62.0,5.2,,Group B,Yes,Bachelor,Yes
+1008,Student_8,16,Male,11th,Greenwood High,,43.0,81.0,71.0,58.0,3.8,,None,No,High School,No
+1009,Student_9,16,Female,10th,Greenwood High,92.0,88.0,60.0,54.0,80.0,4.4,65.2,Group C,No,High School,Yes
+1010,Student_10,18,Male,9th,National Grammar,,61.0,54.0,86.0,80.0,2.0,94.3,Group A,Yes,Bachelor,Yes
+1011,Student_11,17,Female,10th,Greenwood High,81.0,68.0,56.0,84.0,64.0,6.1,91.7,None,Yes,Bachelor,No
+1012,Student_12,16,Male,9th,National Grammar,82.0,35.0,61.0,45.0,96.0,,65.5,Group A,Yes,None,Yes
+1013,Student_13,18,Female,11th,Sunrise Academy,93.0,66.0,77.0,43.0,63.0,1.6,64.0,Group C,Yes,None,Yes
+1014,Student_14,15,Male,11th,City Public School,80.0,54.0,74.0,68.0,89.0,7.1,87.2,Group C,Yes,Bachelor,Yes
+1015,Student_15,17,Female,12th,Sunrise Academy,48.0,69.0,84.0,57.0,88.0,2.5,69.2,Group C,No,Bachelor,Yes
+1016,Student_16,15,Male,9th,National Grammar,63.0,51.0,55.0,80.0,51.0,,68.8,Group B,No,High School,Yes
+1017,Student_17,17,Female,10th,City Public School,76.0,52.0,47.0,78.0,88.0,3.4,61.9,Group C,Yes,Bachelor,No
+1018,Student_18,18,Male,12th,National Grammar,88.0,79.0,86.0,38.0,97.0,1.8,66.9,None,Yes,High School,Yes
+1019,Student_19,14,Male,12th,City Public School,80.0,87.0,56.0,87.0,48.0,3.1,74.2,Group B,Yes,Bachelor,No
+1020,Student_20,17,Female,12th,City Public School,56.0,99.0,56.0,74.0,78.0,3.8,,Group A,Yes,Master,Yes
+1021,Student_21,15,Female,10th,City Public School,63.0,35.0,93.0,51.0,46.0,1.0,70.1,None,Yes,None,Yes
+1022,Student_22,18,Male,12th,City Public School,60.0,92.0,65.0,61.0,49.0,4.8,69.8,None,Yes,Bachelor,Yes
+1023,Student_23,17,Female,10th,National Grammar,90.0,60.0,52.0,98.0,99.0,5.0,67.8,Group A,Yes,Bachelor,Yes
+1024,Student_24,14,Male,12th,City Public School,98.0,54.0,56.0,98.0,54.0,6.0,76.5,Group B,Yes,Bachelor,No
+1025,Student_25,14,Male,10th,City Public School,78.0,44.0,77.0,71.0,76.0,0.7,63.1,None,Yes,Bachelor,Yes
+1026,Student_26,16,Male,11th,Sunrise Academy,94.0,93.0,56.0,82.0,86.0,4.6,76.9,None,Yes,Master,Yes
+1027,Student_27,16,Female,11th,Greenwood High,80.0,75.0,87.0,88.0,85.0,0.9,86.7,None,Yes,None,No
+1028,Student_28,15,Male,11th,Greenwood High,78.0,,53.0,68.0,57.0,5.8,56.3,Group B,Yes,None,Yes
+1029,Student_29,17,Male,11th,Sunrise Academy,52.0,99.0,84.0,44.0,83.0,0.9,55.4,Group B,Yes,High School,No
+1030,Student_30,17,Female,11th,Sunrise Academy,50.0,51.0,45.0,58.0,49.0,7.3,58.4,Group B,Yes,Master,No
+1031,Student_31,16,Female,12th,National Grammar,,56.0,74.0,32.0,54.0,5.8,79.1,None,Yes,Bachelor,Yes
+1032,Student_32,17,Female,12th,National Grammar,58.0,75.0,85.0,39.0,54.0,4.3,93.5,Group C,No,Bachelor,Yes
+1033,Student_33,17,Female,12th,National Grammar,50.0,45.0,53.0,58.0,82.0,3.8,55.2,Group A,Yes,None,Yes
+1034,Student_34,14,Male,10th,Sunrise Academy,52.0,,86.0,64.0,71.0,1.5,97.1,Group C,Yes,Master,No
+1035,Student_35,16,Male,10th,Sunrise Academy,85.0,85.0,47.0,35.0,95.0,2.7,59.8,Group B,Yes,Bachelor,Yes
+1036,Student_36,18,Male,10th,City Public School,84.0,55.0,54.0,41.0,65.0,7.0,92.9,None,Yes,,Yes
+1037,Student_37,16,Male,10th,National Grammar,40.0,60.0,93.0,67.0,52.0,7.3,76.7,None,Yes,High School,Yes
+1038,Student_38,18,Female,11th,National Grammar,79.0,53.0,66.0,48.0,45.0,0.5,84.7,Group C,No,None,Yes
+1039,Student_39,14,Male,11th,National Grammar,83.0,94.0,52.0,96.0,72.0,5.0,78.0,Group C,No,Bachelor,Yes
+1040,Student_40,15,Male,11th,Greenwood High,58.0,81.0,88.0,37.0,93.0,5.9,76.5,Group A,No,Bachelor,No
+1041,Student_41,17,Female,9th,City Public School,51.0,60.0,70.0,37.0,83.0,5.1,,None,Yes,None,Yes
+1042,Student_42,14,Male,12th,National Grammar,47.0,74.0,92.0,76.0,58.0,1.1,89.0,Group C,Yes,Bachelor,No
+1043,Student_43,17,Male,10th,National Grammar,47.0,39.0,95.0,33.0,65.0,2.1,76.8,Group A,Yes,High School,No
+1044,Student_44,15,Male,10th,National Grammar,92.0,55.0,74.0,80.0,74.0,2.4,60.0,Group B,Yes,Bachelor,Yes
+1045,Student_45,15,Male,11th,Greenwood High,84.0,38.0,99.0,96.0,65.0,6.7,60.2,Group C,Yes,Bachelor,Yes
+1046,Student_46,14,Male,10th,Greenwood High,51.0,,45.0,74.0,93.0,4.0,91.1,Group B,Yes,High School,Yes
+1047,Student_47,15,Male,10th,Sunrise Academy,87.0,49.0,44.0,37.0,53.0,4.2,78.8,Group A,No,Bachelor,No
+1048,Student_48,18,Female,12th,City Public School,72.0,42.0,61.0,45.0,61.0,7.5,76.7,Group B,Yes,High School,Yes
+1049,Student_49,15,Female,11th,Sunrise Academy,84.0,75.0,97.0,96.0,49.0,5.3,85.6,None,Yes,High School,No
+1050,Student_50,17,Male,12th,City Public School,65.0,53.0,88.0,38.0,75.0,7.2,93.6,None,No,Bachelor,No
+1051,Student_51,17,Male,9th,Greenwood High,78.0,80.0,62.0,89.0,96.0,3.9,83.3,Group B,No,None,Yes
+1052,Student_52,17,Female,9th,National Grammar,67.0,62.0,64.0,44.0,84.0,1.6,89.3,None,Yes,High School,No
+1053,Student_53,17,Male,9th,Sunrise Academy,97.0,49.0,73.0,70.0,82.0,7.5,89.4,Group A,No,None,Yes
+1054,Student_54,18,Male,11th,National Grammar,44.0,71.0,65.0,51.0,87.0,3.9,71.0,None,No,None,No
+1055,Student_55,16,Male,10th,Sunrise Academy,47.0,35.0,86.0,53.0,63.0,1.9,67.3,Group B,Yes,High School,Yes
+1056,Student_56,14,Female,11th,Greenwood High,64.0,58.0,44.0,73.0,80.0,2.8,91.1,Group B,Yes,None,Yes
+1057,Student_57,17,Male,11th,Greenwood High,66.0,61.0,65.0,30.0,94.0,0.9,72.0,Group B,Yes,Bachelor,Yes
+1058,Student_58,15,Female,10th,Greenwood High,85.0,74.0,59.0,39.0,77.0,4.0,95.7,Group C,Yes,None,No
+1059,Student_59,17,Male,12th,Sunrise Academy,62.0,97.0,45.0,85.0,57.0,6.9,58.1,Group B,Yes,Bachelor,Yes
+1060,Student_60,15,Female,9th,City Public School,69.0,95.0,45.0,79.0,58.0,7.5,57.6,Group A,No,,No
+1061,Student_61,15,Female,12th,Sunrise Academy,84.0,70.0,98.0,41.0,77.0,7.5,96.7,None,No,None,Yes
+1062,Student_62,17,Male,9th,City Public School,86.0,58.0,89.0,89.0,73.0,1.4,84.2,None,No,,Yes
+1063,Student_63,18,Female,11th,Sunrise Academy,62.0,58.0,57.0,55.0,87.0,3.4,72.1,Group C,No,Master,Yes
+1064,Student_64,15,Male,9th,Sunrise Academy,88.0,,43.0,70.0,93.0,0.7,89.0,Group C,No,Bachelor,Yes
+1065,Student_65,15,Female,11th,Greenwood High,86.0,68.0,56.0,65.0,80.0,6.9,85.3,Group A,Yes,,Yes
+1066,Student_66,17,Male,12th,National Grammar,59.0,91.0,96.0,52.0,88.0,3.2,78.9,Group B,Yes,High School,Yes
+1067,Student_67,15,Male,11th,National Grammar,57.0,83.0,53.0,72.0,54.0,5.2,59.4,Group C,Yes,Bachelor,No
+1068,Student_68,15,Female,12th,City Public School,57.0,87.0,53.0,35.0,75.0,5.9,91.5,None,Yes,None,Yes
+1069,Student_69,17,Male,10th,National Grammar,41.0,57.0,52.0,98.0,50.0,3.7,94.0,Group C,Yes,High School,Yes
+1070,Student_70,17,Male,10th,Sunrise Academy,43.0,87.0,46.0,72.0,45.0,2.8,62.7,Group C,Yes,Bachelor,Yes
+1071,Student_71,14,Female,10th,Sunrise Academy,69.0,96.0,83.0,54.0,51.0,7.7,93.3,Group B,No,High School,No
+1072,Student_72,18,Male,11th,Greenwood High,72.0,75.0,94.0,47.0,71.0,7.7,94.5,Group C,Yes,Master,Yes
+1073,Student_73,18,Male,10th,Greenwood High,75.0,91.0,54.0,91.0,65.0,2.7,79.7,Group A,No,None,Yes
+1074,Student_74,15,Female,9th,National Grammar,57.0,94.0,58.0,42.0,72.0,4.1,,None,Yes,Master,Yes
+1075,Student_75,18,Female,12th,City Public School,76.0,88.0,82.0,72.0,60.0,7.8,72.2,Group B,Yes,Bachelor,No
+1076,Student_76,15,Male,12th,National Grammar,58.0,91.0,86.0,57.0,90.0,0.5,67.7,None,Yes,Bachelor,No
+1077,Student_77,14,Male,9th,National Grammar,86.0,44.0,83.0,47.0,67.0,3.6,87.5,Group A,No,None,Yes
+1078,Student_78,17,Female,11th,National Grammar,67.0,74.0,74.0,88.0,96.0,1.3,93.8,Group A,Yes,High School,Yes
+1079,Student_79,17,Female,11th,National Grammar,79.0,41.0,56.0,89.0,64.0,4.3,84.4,Group C,Yes,,No
+1080,Student_80,17,Male,12th,Sunrise Academy,59.0,72.0,74.0,92.0,82.0,0.7,78.0,Group C,Yes,High School,No
+1081,Student_81,18,Female,10th,City Public School,88.0,95.0,58.0,86.0,98.0,3.6,62.2,Group C,Yes,Bachelor,No
+1082,Student_82,14,Male,11th,Sunrise Academy,72.0,,59.0,80.0,69.0,2.2,57.4,None,Yes,Master,No
+1083,Student_83,18,Male,11th,City Public School,51.0,85.0,75.0,85.0,72.0,4.5,,Group A,Yes,High School,No
+1084,Student_84,18,Male,9th,Greenwood High,97.0,81.0,74.0,56.0,49.0,8.0,57.2,Group B,Yes,Bachelor,No
+1085,Student_85,14,Male,9th,National Grammar,90.0,72.0,71.0,61.0,65.0,6.5,80.6,Group C,Yes,Bachelor,Yes
+1086,Student_86,14,Male,10th,Sunrise Academy,54.0,70.0,97.0,38.0,62.0,6.8,72.2,None,Yes,High School,Yes
+1087,Student_87,14,Female,11th,City Public School,80.0,75.0,87.0,97.0,91.0,5.3,89.1,Group C,Yes,High School,Yes
+1088,Student_88,14,Female,11th,Greenwood High,78.0,47.0,83.0,75.0,50.0,0.8,68.8,Group A,Yes,Bachelor,No
+1089,Student_89,17,Female,9th,Greenwood High,41.0,92.0,79.0,96.0,73.0,2.1,81.7,Group B,Yes,High School,No
+1090,Student_90,16,Female,11th,National Grammar,68.0,84.0,63.0,55.0,63.0,7.4,79.2,Group A,Yes,Bachelor,No
+1091,Student_91,16,Male,12th,City Public School,80.0,64.0,56.0,37.0,77.0,3.2,55.2,None,Yes,None,Yes
+1092,Student_92,14,Male,9th,Sunrise Academy,49.0,96.0,46.0,35.0,45.0,,58.3,Group C,Yes,Master,Yes
+1093,Student_93,16,Male,10th,National Grammar,41.0,59.0,82.0,53.0,89.0,5.8,68.1,Group A,Yes,,Yes
+1094,Student_94,16,Male,9th,Sunrise Academy,90.0,61.0,89.0,77.0,47.0,2.7,94.7,None,Yes,Bachelor,Yes
+1095,Student_95,14,Female,11th,Greenwood High,50.0,85.0,40.0,74.0,86.0,2.5,61.6,Group C,No,Bachelor,No
+1096,Student_96,16,Male,10th,Sunrise Academy,52.0,,74.0,42.0,65.0,8.0,87.0,Group B,Yes,High School,No
+1097,Student_97,18,Male,9th,Sunrise Academy,49.0,81.0,71.0,98.0,79.0,6.9,98.8,Group A,Yes,,Yes
+1098,Student_98,15,Female,12th,National Grammar,53.0,73.0,75.0,54.0,85.0,3.6,90.6,Group C,Yes,Bachelor,Yes
+1099,Student_99,15,Female,12th,Sunrise Academy,57.0,50.0,52.0,49.0,84.0,,65.9,Group C,No,Master,No
+1100,Student_100,14,Female,9th,National Grammar,90.0,56.0,45.0,95.0,47.0,5.4,95.9,Group C,Yes,High School,Yes
+1101,Student_101,17,Female,12th,Greenwood High,93.0,88.0,97.0,74.0,69.0,6.1,59.2,Group C,Yes,High School,No
+1102,Student_102,14,Male,12th,National Grammar,48.0,55.0,53.0,76.0,89.0,0.7,76.1,Group A,No,High School,Yes
+1103,Student_103,17,Male,12th,National Grammar,96.0,50.0,76.0,92.0,82.0,1.4,94.9,Group C,No,None,Yes
+1104,Student_104,15,Female,10th,City Public School,78.0,93.0,87.0,84.0,89.0,5.2,83.9,None,Yes,Bachelor,Yes
+1105,Student_105,14,Male,12th,Sunrise Academy,67.0,65.0,54.0,48.0,99.0,7.2,73.6,Group A,Yes,Bachelor,Yes
+1106,Student_106,18,Male,12th,Greenwood High,42.0,76.0,86.0,64.0,64.0,5.2,68.2,Group C,No,High School,Yes
+1107,Student_107,16,Male,12th,National Grammar,59.0,66.0,43.0,82.0,96.0,1.5,,Group A,Yes,Master,Yes
+1108,Student_108,17,Female,10th,Greenwood High,45.0,93.0,79.0,55.0,88.0,1.4,77.9,None,Yes,None,Yes
+1109,Student_109,16,Male,9th,City Public School,66.0,68.0,98.0,43.0,89.0,,69.4,None,Yes,Bachelor,Yes
+1110,Student_110,16,Female,11th,Sunrise Academy,92.0,43.0,55.0,74.0,78.0,1.5,98.6,Group A,No,High School,Yes
+1111,Student_111,14,Male,12th,National Grammar,41.0,45.0,67.0,73.0,65.0,4.4,97.0,Group C,Yes,High School,Yes
+1112,Student_112,16,Male,9th,Sunrise Academy,68.0,44.0,55.0,94.0,99.0,0.8,94.2,Group C,Yes,Bachelor,Yes
+1113,Student_113,18,Male,12th,City Public School,77.0,51.0,43.0,80.0,92.0,1.1,74.0,None,No,High School,No
+1114,Student_114,16,Female,10th,City Public School,42.0,82.0,84.0,72.0,67.0,5.5,86.1,Group C,Yes,Bachelor,No
+1115,Student_115,14,Male,9th,Greenwood High,55.0,86.0,65.0,52.0,50.0,5.7,95.6,None,Yes,Bachelor,Yes
+1116,Student_116,18,Female,10th,National Grammar,69.0,59.0,67.0,85.0,95.0,3.1,93.3,Group C,Yes,High School,Yes
+1117,Student_117,15,Female,12th,Greenwood High,79.0,55.0,71.0,48.0,97.0,2.1,,None,No,Bachelor,Yes
+1118,Student_118,16,Female,12th,City Public School,41.0,99.0,84.0,84.0,57.0,6.6,60.1,Group B,Yes,High School,Yes
+1119,Student_119,14,Male,10th,Sunrise Academy,56.0,97.0,41.0,89.0,93.0,2.1,58.4,Group C,Yes,Bachelor,No
+1120,Student_120,15,Male,11th,Greenwood High,80.0,85.0,70.0,88.0,67.0,4.6,,Group C,Yes,High School,No
+1121,Student_121,15,Male,10th,Greenwood High,51.0,70.0,42.0,62.0,53.0,7.8,83.9,Group C,Yes,High School,No
+1122,Student_122,17,Male,12th,Sunrise Academy,74.0,49.0,93.0,48.0,61.0,1.6,93.2,Group A,No,High School,Yes
+1123,Student_123,18,Female,10th,Greenwood High,82.0,73.0,47.0,57.0,46.0,7.6,68.2,Group C,Yes,Bachelor,Yes
+1124,Student_124,16,Female,11th,Sunrise Academy,40.0,35.0,63.0,81.0,63.0,1.9,62.5,Group A,Yes,Bachelor,No
+1125,Student_125,14,Female,10th,National Grammar,94.0,57.0,54.0,78.0,63.0,4.8,72.1,Group A,Yes,High School,Yes
+1126,Student_126,17,Male,11th,Sunrise Academy,84.0,73.0,82.0,66.0,51.0,3.3,70.9,None,No,None,Yes
+1127,Student_127,18,Female,11th,National Grammar,54.0,91.0,70.0,55.0,98.0,7.7,61.0,Group A,Yes,High School,No
+1128,Student_128,17,Male,10th,Sunrise Academy,65.0,68.0,48.0,69.0,86.0,2.6,85.3,Group A,Yes,Bachelor,No
+1129,Student_129,18,Female,10th,City Public School,76.0,75.0,78.0,67.0,86.0,,77.9,Group B,Yes,Bachelor,No
+1130,Student_130,18,Male,9th,City Public School,60.0,47.0,84.0,83.0,64.0,7.9,87.5,Group C,Yes,High School,Yes
+1131,Student_131,16,Male,12th,National Grammar,88.0,,41.0,51.0,53.0,4.5,,Group A,Yes,None,Yes
+1132,Student_132,18,Female,11th,National Grammar,70.0,86.0,47.0,45.0,61.0,4.3,69.7,Group C,Yes,Bachelor,Yes
+1133,Student_133,17,Female,9th,City Public School,64.0,,46.0,57.0,71.0,2.4,76.3,Group A,Yes,,No
+1134,Student_134,18,Female,10th,National Grammar,62.0,97.0,95.0,64.0,91.0,5.8,94.5,None,Yes,None,Yes
+1135,Student_135,16,Female,12th,Sunrise Academy,63.0,83.0,83.0,89.0,46.0,0.6,56.8,Group B,No,None,No
+1136,Student_136,16,Male,9th,Sunrise Academy,96.0,81.0,90.0,74.0,80.0,0.9,91.2,Group A,Yes,High School,No
+1137,Student_137,17,Female,11th,City Public School,77.0,89.0,78.0,75.0,63.0,5.0,71.6,Group C,No,Bachelor,Yes
+1138,Student_138,15,Female,9th,Greenwood High,67.0,98.0,81.0,84.0,61.0,3.1,93.5,None,Yes,Bachelor,Yes
+1139,Student_139,15,Female,11th,Sunrise Academy,60.0,99.0,96.0,55.0,49.0,7.6,91.1,Group C,No,High School,Yes
+1140,Student_140,18,Male,10th,National Grammar,93.0,49.0,55.0,54.0,83.0,7.3,70.7,None,No,Bachelor,No
+1141,Student_141,14,Male,12th,Greenwood High,82.0,66.0,74.0,94.0,62.0,5.9,86.2,Group B,No,High School,No
+1142,Student_142,18,Female,12th,Greenwood High,57.0,52.0,69.0,35.0,97.0,6.6,62.2,None,No,Bachelor,No
+1143,Student_143,17,Male,12th,Sunrise Academy,75.0,77.0,49.0,52.0,98.0,,95.3,Group C,Yes,Bachelor,Yes
+1144,Student_144,17,Female,10th,Sunrise Academy,74.0,69.0,77.0,93.0,51.0,1.4,73.2,Group C,Yes,Bachelor,Yes
+1145,Student_145,17,Male,11th,Greenwood High,84.0,92.0,57.0,72.0,61.0,6.2,75.5,Group A,Yes,High School,No
+1146,Student_146,17,Male,10th,Greenwood High,94.0,67.0,89.0,52.0,83.0,2.1,86.8,None,Yes,None,Yes
+1147,Student_147,17,Male,12th,City Public School,48.0,48.0,44.0,59.0,80.0,2.9,91.9,Group C,Yes,Bachelor,No
+1148,Student_148,16,Male,10th,National Grammar,92.0,68.0,92.0,47.0,84.0,6.6,65.6,Group A,No,Bachelor,No
+1149,Student_149,15,Female,10th,City Public School,77.0,95.0,68.0,50.0,89.0,4.5,84.8,Group B,Yes,None,Yes
+1150,Student_150,17,Female,10th,Sunrise Academy,97.0,38.0,78.0,86.0,48.0,6.9,,Group C,Yes,Master,Yes
+1151,Student_151,14,Female,11th,City Public School,69.0,93.0,99.0,52.0,82.0,,71.6,Group A,No,Master,Yes
+1152,Student_152,14,Male,9th,City Public School,99.0,63.0,73.0,74.0,69.0,5.1,86.1,Group C,Yes,Bachelor,Yes
+1153,Student_153,14,Female,9th,City Public School,83.0,40.0,82.0,73.0,49.0,1.1,72.4,None,Yes,Master,No
+1154,Student_154,14,Female,10th,City Public School,73.0,83.0,84.0,76.0,74.0,5.3,70.6,Group A,No,High School,No
+1155,Student_155,16,Female,9th,National Grammar,71.0,74.0,62.0,69.0,56.0,6.2,92.6,None,Yes,None,No
+1156,Student_156,14,Male,9th,National Grammar,42.0,99.0,44.0,80.0,48.0,4.9,,Group B,Yes,None,No
+1157,Student_157,17,Male,10th,Greenwood High,42.0,61.0,69.0,71.0,68.0,2.5,85.4,None,No,Bachelor,Yes
+1158,Student_158,18,Male,10th,Sunrise Academy,67.0,40.0,45.0,36.0,73.0,0.7,66.2,Group A,No,None,Yes
+1159,Student_159,14,Female,12th,City Public School,,47.0,95.0,79.0,53.0,1.4,55.7,Group C,No,Master,No
+1160,Student_160,16,Female,9th,Greenwood High,54.0,98.0,97.0,77.0,48.0,5.2,62.5,Group A,Yes,High School,Yes
+1161,Student_161,16,Female,11th,Greenwood High,80.0,96.0,85.0,35.0,95.0,7.5,82.3,None,No,High School,No
+1162,Student_162,14,Male,10th,Greenwood High,62.0,53.0,83.0,38.0,68.0,2.0,86.9,None,Yes,,No
+1163,Student_163,18,Male,12th,National Grammar,79.0,77.0,43.0,86.0,58.0,6.0,55.9,Group C,Yes,High School,Yes
+1164,Student_164,14,Female,11th,City Public School,50.0,54.0,68.0,60.0,49.0,7.0,56.6,Group B,Yes,High School,Yes
+1165,Student_165,16,Male,9th,City Public School,87.0,78.0,62.0,50.0,62.0,4.4,95.6,Group A,Yes,Bachelor,Yes
+1166,Student_166,15,Male,12th,Sunrise Academy,71.0,57.0,45.0,69.0,86.0,5.5,58.3,Group C,Yes,High School,No
+1167,Student_167,17,Male,10th,City Public School,97.0,36.0,71.0,74.0,63.0,6.6,95.2,Group C,Yes,High School,Yes
+1168,Student_168,16,Male,11th,City Public School,98.0,56.0,81.0,78.0,56.0,,,Group C,Yes,High School,No
+1169,Student_169,14,Female,10th,Greenwood High,96.0,91.0,57.0,49.0,62.0,2.7,88.3,Group A,Yes,Bachelor,Yes
+1170,Student_170,17,Male,9th,Sunrise Academy,93.0,41.0,54.0,46.0,61.0,0.5,68.9,Group A,No,Master,No
+1171,Student_171,14,Male,11th,City Public School,75.0,90.0,79.0,57.0,74.0,7.7,93.6,Group A,Yes,Bachelor,Yes
+1172,Student_172,14,Male,9th,National Grammar,99.0,50.0,97.0,70.0,68.0,7.4,86.5,Group B,Yes,High School,Yes
+1173,Student_173,15,Male,9th,City Public School,72.0,85.0,71.0,95.0,55.0,6.2,73.1,Group C,Yes,High School,No
+1174,Student_174,17,Female,12th,Greenwood High,63.0,46.0,48.0,54.0,79.0,1.1,58.4,None,Yes,Bachelor,No
+1175,Student_175,17,Female,10th,National Grammar,78.0,87.0,76.0,87.0,67.0,3.9,88.0,None,Yes,Master,Yes
+1176,Student_176,15,Male,11th,Greenwood High,73.0,39.0,49.0,70.0,61.0,1.3,82.8,Group C,Yes,High School,No
+1177,Student_177,16,Male,9th,City Public School,95.0,61.0,59.0,35.0,45.0,0.6,55.1,None,Yes,High School,No
+1178,Student_178,14,Male,9th,National Grammar,67.0,46.0,45.0,67.0,59.0,5.1,55.4,Group B,No,Bachelor,Yes
+1179,Student_179,18,Male,11th,Sunrise Academy,76.0,51.0,87.0,35.0,76.0,7.7,91.4,Group B,Yes,Master,Yes
+1180,Student_180,14,Male,9th,Sunrise Academy,46.0,40.0,95.0,74.0,53.0,7.3,66.7,Group A,Yes,High School,No
+1181,Student_181,14,Male,12th,National Grammar,43.0,39.0,98.0,43.0,59.0,5.7,83.6,Group A,Yes,High School,Yes
+1182,Student_182,16,Female,12th,National Grammar,76.0,91.0,42.0,95.0,72.0,1.2,75.4,Group A,Yes,High School,Yes
+1183,Student_183,14,Male,12th,Greenwood High,95.0,62.0,81.0,69.0,68.0,2.6,93.9,Group A,Yes,None,No
+1184,Student_184,15,Female,12th,National Grammar,40.0,93.0,50.0,32.0,79.0,2.9,96.3,Group A,Yes,Bachelor,Yes
+1185,Student_185,15,Female,9th,Greenwood High,40.0,67.0,82.0,53.0,66.0,6.2,99.9,None,Yes,Bachelor,Yes
+1186,Student_186,17,Male,11th,City Public School,86.0,96.0,56.0,48.0,71.0,6.5,61.9,None,No,Bachelor,No
+1187,Student_187,18,Female,11th,Greenwood High,59.0,,71.0,47.0,63.0,3.4,93.8,Group A,Yes,None,Yes
+1188,Student_188,14,Female,11th,National Grammar,58.0,53.0,43.0,93.0,89.0,,67.0,Group B,Yes,None,No
+1189,Student_189,14,Female,11th,National Grammar,68.0,81.0,43.0,64.0,56.0,0.8,81.6,None,No,High School,No
+1190,Student_190,16,Female,10th,City Public School,49.0,73.0,56.0,91.0,64.0,2.7,77.8,Group B,Yes,High School,Yes
+1191,Student_191,15,Female,11th,National Grammar,99.0,67.0,80.0,30.0,45.0,3.9,55.8,Group B,No,Bachelor,Yes
+1192,Student_192,18,Female,10th,National Grammar,57.0,47.0,58.0,54.0,65.0,1.4,97.0,Group C,Yes,High School,Yes
+1193,Student_193,17,Male,10th,Sunrise Academy,67.0,88.0,44.0,74.0,93.0,3.9,58.5,Group C,Yes,None,Yes
+1194,Student_194,15,Female,12th,Sunrise Academy,74.0,41.0,71.0,78.0,89.0,6.9,86.0,Group A,No,High School,No
+1195,Student_195,17,Female,10th,City Public School,,48.0,61.0,45.0,45.0,4.9,90.3,Group B,No,High School,No
+1196,Student_196,16,Female,9th,Greenwood High,86.0,53.0,95.0,48.0,54.0,1.1,90.8,None,No,Bachelor,Yes
+1197,Student_197,16,Male,10th,Sunrise Academy,70.0,,45.0,52.0,91.0,1.9,61.1,Group C,Yes,Bachelor,Yes
+1198,Student_198,14,Female,12th,Greenwood High,66.0,54.0,74.0,54.0,76.0,4.1,75.1,Group C,No,None,Yes
+1199,Student_199,18,Male,10th,National Grammar,50.0,63.0,61.0,45.0,83.0,3.2,92.3,Group B,No,Bachelor,Yes
+1200,Student_200,17,Female,9th,Sunrise Academy,88.0,58.0,40.0,83.0,66.0,3.2,68.6,Group C,Yes,High School,Yes
+1201,Student_201,15,Male,9th,City Public School,88.0,97.0,59.0,30.0,62.0,4.5,76.0,Group C,Yes,High School,Yes
+1202,Student_202,16,Male,9th,City Public School,77.0,91.0,61.0,71.0,92.0,4.9,67.3,None,Yes,Master,No
+1203,Student_203,14,Female,12th,City Public School,44.0,42.0,87.0,48.0,90.0,6.5,75.9,Group B,No,High School,Yes
+1204,Student_204,14,Female,12th,Sunrise Academy,47.0,96.0,94.0,63.0,76.0,3.1,95.0,Group C,Yes,Bachelor,Yes
+1205,Student_205,17,Male,11th,Greenwood High,73.0,63.0,50.0,84.0,71.0,6.5,75.5,Group B,Yes,High School,No
+1206,Student_206,16,Female,12th,National Grammar,87.0,51.0,52.0,47.0,72.0,3.0,80.0,Group C,Yes,Bachelor,Yes
+1207,Student_207,18,Male,9th,Greenwood High,91.0,40.0,98.0,63.0,62.0,,73.2,None,Yes,Bachelor,Yes
+1208,Student_208,16,Male,9th,Greenwood High,95.0,92.0,81.0,74.0,83.0,4.7,75.7,Group B,Yes,Master,Yes
+1209,Student_209,17,Male,12th,National Grammar,51.0,62.0,42.0,35.0,93.0,4.9,55.7,Group C,Yes,Bachelor,Yes
+1210,Student_210,17,Male,10th,National Grammar,77.0,96.0,48.0,50.0,73.0,7.5,67.8,None,No,Bachelor,Yes
+1211,Student_211,16,Male,12th,Sunrise Academy,40.0,75.0,99.0,99.0,62.0,5.9,74.6,Group C,Yes,High School,No
+1212,Student_212,17,Female,12th,Sunrise Academy,,75.0,51.0,77.0,88.0,7.4,83.5,Group B,No,Bachelor,Yes
+1213,Student_213,16,Male,9th,Sunrise Academy,43.0,83.0,62.0,68.0,52.0,7.3,75.3,Group C,Yes,Bachelor,No
+1214,Student_214,15,Male,11th,Sunrise Academy,88.0,83.0,53.0,60.0,98.0,5.0,70.2,Group B,Yes,None,Yes
+1215,Student_215,16,Female,9th,Sunrise Academy,84.0,37.0,72.0,39.0,75.0,4.5,72.5,Group B,Yes,High School,Yes
+1216,Student_216,16,Male,11th,National Grammar,89.0,44.0,57.0,59.0,78.0,4.7,65.9,Group C,Yes,Bachelor,Yes
+1217,Student_217,17,Female,9th,Greenwood High,44.0,69.0,88.0,47.0,51.0,7.8,96.6,None,Yes,Bachelor,Yes
+1218,Student_218,17,Female,12th,Sunrise Academy,69.0,36.0,98.0,89.0,80.0,6.3,78.5,Group A,No,High School,Yes
+1219,Student_219,14,Female,9th,Sunrise Academy,95.0,58.0,80.0,44.0,62.0,1.3,55.6,None,Yes,Master,Yes
+1220,Student_220,14,Male,9th,Greenwood High,63.0,72.0,48.0,33.0,82.0,6.3,55.9,None,Yes,High School,Yes
+1221,Student_221,15,Male,9th,Sunrise Academy,98.0,56.0,62.0,92.0,53.0,1.8,98.8,Group C,Yes,High School,Yes
+1222,Student_222,14,Male,12th,Greenwood High,,60.0,49.0,69.0,53.0,3.9,65.0,None,Yes,Bachelor,Yes
+1223,Student_223,16,Female,12th,Greenwood High,50.0,77.0,58.0,38.0,90.0,2.1,91.3,None,No,High School,Yes
+1224,Student_224,17,Male,12th,National Grammar,84.0,89.0,86.0,38.0,52.0,5.7,57.6,Group A,Yes,Bachelor,Yes
+1225,Student_225,14,Female,12th,City Public School,43.0,73.0,44.0,55.0,95.0,7.1,96.5,None,Yes,High School,No
+1226,Student_226,14,Male,11th,National Grammar,65.0,63.0,86.0,33.0,79.0,2.7,94.3,Group A,Yes,,No
+1227,Student_227,15,Female,11th,City Public School,66.0,54.0,91.0,45.0,62.0,1.1,80.7,Group C,Yes,High School,Yes
+1228,Student_228,15,Male,10th,City Public School,85.0,75.0,62.0,44.0,49.0,2.7,55.4,Group A,Yes,Master,Yes
+1229,Student_229,16,Male,12th,City Public School,93.0,88.0,69.0,81.0,58.0,5.5,66.6,Group B,Yes,High School,Yes
+1230,Student_230,17,Male,11th,Sunrise Academy,,54.0,64.0,98.0,72.0,3.0,73.3,Group B,Yes,High School,No
+1231,Student_231,15,Female,9th,National Grammar,66.0,53.0,67.0,34.0,74.0,2.6,75.7,Group A,Yes,None,Yes
+1232,Student_232,14,Female,12th,City Public School,81.0,64.0,73.0,49.0,48.0,1.9,68.4,Group B,Yes,High School,No
+1233,Student_233,17,Male,10th,Greenwood High,90.0,87.0,84.0,47.0,83.0,4.2,56.5,Group C,No,High School,Yes
+1234,Student_234,17,Male,10th,Sunrise Academy,89.0,68.0,95.0,31.0,64.0,2.6,,Group B,Yes,None,Yes
+1235,Student_235,14,Female,10th,National Grammar,45.0,56.0,87.0,42.0,69.0,6.0,78.6,Group A,No,Bachelor,Yes
+1236,Student_236,15,Female,9th,City Public School,98.0,40.0,86.0,33.0,72.0,1.1,67.7,Group C,No,Bachelor,Yes
+1237,Student_237,14,Female,11th,Greenwood High,54.0,61.0,64.0,71.0,56.0,,56.7,Group B,Yes,,No
+1238,Student_238,17,Male,9th,National Grammar,92.0,44.0,49.0,90.0,46.0,2.3,99.8,Group C,Yes,Bachelor,Yes
+1239,Student_239,18,Female,12th,National Grammar,69.0,82.0,53.0,37.0,87.0,4.2,76.7,Group A,Yes,High School,Yes
+1240,Student_240,18,Male,10th,Sunrise Academy,81.0,93.0,81.0,96.0,58.0,2.6,89.0,Group B,Yes,High School,Yes
+1241,Student_241,16,Female,9th,National Grammar,76.0,93.0,96.0,92.0,66.0,5.9,75.4,Group C,Yes,,No
+1242,Student_242,14,Male,9th,Sunrise Academy,97.0,36.0,85.0,38.0,75.0,7.6,56.9,Group C,Yes,Bachelor,Yes
+1243,Student_243,14,Female,11th,City Public School,76.0,63.0,97.0,40.0,67.0,7.4,68.9,Group B,Yes,High School,Yes
+1244,Student_244,16,Female,11th,Sunrise Academy,81.0,99.0,69.0,71.0,92.0,4.9,69.4,Group C,No,Master,Yes
+1245,Student_245,16,Female,10th,Greenwood High,99.0,60.0,94.0,42.0,64.0,4.0,92.7,Group C,Yes,None,Yes
+1246,Student_246,16,Female,9th,Sunrise Academy,76.0,44.0,80.0,65.0,82.0,6.6,84.4,Group A,Yes,None,No
+1247,Student_247,17,Female,9th,Greenwood High,74.0,87.0,64.0,42.0,99.0,5.6,67.4,Group A,Yes,High School,Yes
+1248,Student_248,14,Male,11th,Sunrise Academy,62.0,93.0,53.0,41.0,48.0,1.9,98.5,Group A,Yes,Master,Yes
+1249,Student_249,17,Female,9th,National Grammar,45.0,56.0,74.0,66.0,59.0,6.7,69.5,Group A,Yes,Bachelor,Yes
+1250,Student_250,16,Female,9th,City Public School,43.0,85.0,91.0,81.0,68.0,3.7,99.9,Group A,No,Bachelor,No
+1251,Student_251,14,Female,9th,Greenwood High,57.0,82.0,87.0,31.0,69.0,1.9,,Group A,No,High School,Yes
+1252,Student_252,17,Male,11th,Sunrise Academy,99.0,55.0,73.0,85.0,45.0,2.6,63.6,Group B,No,,Yes
+1253,Student_253,17,Female,10th,Sunrise Academy,48.0,56.0,49.0,89.0,51.0,2.5,69.1,Group A,Yes,High School,No
+1254,Student_254,16,Male,12th,Sunrise Academy,88.0,64.0,74.0,52.0,75.0,4.4,76.9,Group C,Yes,Bachelor,Yes
+1255,Student_255,14,Female,10th,National Grammar,68.0,59.0,50.0,69.0,56.0,2.3,84.9,Group B,Yes,None,No
+1256,Student_256,16,Female,12th,National Grammar,52.0,62.0,50.0,93.0,86.0,1.4,78.8,Group C,Yes,High School,Yes
+1257,Student_257,14,Male,9th,Greenwood High,98.0,99.0,60.0,52.0,49.0,1.4,98.6,Group A,Yes,High School,Yes
+1258,Student_258,18,Female,10th,Greenwood High,86.0,79.0,60.0,58.0,88.0,4.9,87.6,Group A,Yes,Master,No
+1259,Student_259,15,Male,12th,National Grammar,91.0,41.0,61.0,80.0,94.0,6.0,,Group C,Yes,Bachelor,No
+1260,Student_260,15,Male,11th,Greenwood High,56.0,83.0,84.0,98.0,86.0,2.9,59.7,Group C,Yes,High School,Yes
+1261,Student_261,15,Female,11th,City Public School,84.0,43.0,46.0,60.0,82.0,0.8,86.0,Group C,Yes,High School,No
+1262,Student_262,16,Male,10th,City Public School,71.0,70.0,94.0,79.0,56.0,1.5,62.1,None,No,Master,Yes
+1263,Student_263,18,Female,10th,National Grammar,87.0,35.0,56.0,49.0,83.0,7.4,90.4,None,Yes,Master,No
+1264,Student_264,14,Female,9th,Greenwood High,61.0,44.0,41.0,84.0,62.0,4.2,,None,No,Bachelor,Yes
+1265,Student_265,17,Male,10th,Sunrise Academy,43.0,70.0,51.0,31.0,46.0,3.9,69.7,None,No,High School,Yes
+1266,Student_266,14,Male,9th,City Public School,44.0,80.0,96.0,54.0,54.0,0.8,55.5,Group B,Yes,High School,No
+1267,Student_267,17,Male,9th,National Grammar,76.0,66.0,81.0,42.0,59.0,6.0,86.5,Group A,Yes,Master,No
+1268,Student_268,14,Male,11th,Greenwood High,80.0,66.0,57.0,99.0,74.0,4.5,60.1,Group C,Yes,High School,Yes
+1269,Student_269,18,Female,11th,National Grammar,88.0,40.0,93.0,96.0,88.0,2.0,89.8,Group A,No,High School,Yes
+1270,Student_270,17,Female,12th,Sunrise Academy,52.0,82.0,98.0,87.0,61.0,1.3,77.1,Group C,Yes,Bachelor,Yes
+1271,Student_271,16,Male,11th,City Public School,73.0,72.0,50.0,93.0,48.0,3.4,90.3,Group A,No,Master,Yes
+1272,Student_272,14,Female,11th,National Grammar,84.0,51.0,55.0,98.0,51.0,6.8,81.3,Group B,Yes,High School,Yes
+1273,Student_273,14,Female,10th,National Grammar,61.0,61.0,88.0,88.0,85.0,7.0,58.7,None,No,Bachelor,Yes
+1274,Student_274,17,Female,11th,National Grammar,92.0,,90.0,89.0,75.0,5.0,89.5,Group A,No,Bachelor,Yes
+1275,Student_275,16,Female,12th,Sunrise Academy,98.0,84.0,57.0,91.0,95.0,6.0,58.1,Group C,Yes,High School,No
+1276,Student_276,16,Male,10th,National Grammar,62.0,69.0,74.0,45.0,99.0,,,Group A,Yes,High School,Yes
+1277,Student_277,18,Male,12th,Sunrise Academy,90.0,59.0,92.0,97.0,83.0,4.9,62.8,Group B,Yes,Master,Yes
+1278,Student_278,16,Female,11th,Sunrise Academy,42.0,62.0,98.0,44.0,99.0,5.5,88.9,Group B,Yes,Master,Yes
+1279,Student_279,16,Male,12th,Sunrise Academy,81.0,49.0,65.0,84.0,78.0,2.0,96.0,Group A,Yes,Bachelor,No
+1280,Student_280,16,Male,10th,City Public School,73.0,38.0,55.0,64.0,50.0,,79.9,None,No,Bachelor,Yes
+1281,Student_281,15,Male,9th,City Public School,71.0,61.0,45.0,84.0,94.0,2.0,78.7,Group C,Yes,High School,Yes
+1282,Student_282,18,Female,12th,National Grammar,84.0,60.0,96.0,43.0,82.0,2.9,89.4,Group B,No,Master,No
+1283,Student_283,14,Female,12th,National Grammar,,53.0,83.0,78.0,89.0,5.2,55.2,Group B,No,High School,No
+1284,Student_284,17,Female,10th,City Public School,97.0,51.0,82.0,36.0,95.0,5.3,96.3,Group A,Yes,Bachelor,No
+1285,Student_285,14,Male,10th,Greenwood High,88.0,77.0,86.0,59.0,78.0,5.7,63.9,Group B,No,Master,No
+1286,Student_286,18,Female,12th,City Public School,60.0,75.0,86.0,78.0,88.0,1.3,99.3,Group B,Yes,Bachelor,No
+1287,Student_287,17,Female,11th,Sunrise Academy,85.0,76.0,87.0,45.0,59.0,6.9,88.1,Group C,No,Bachelor,No
+1288,Student_288,18,Male,12th,City Public School,83.0,84.0,81.0,80.0,58.0,4.5,89.8,None,Yes,Bachelor,Yes
+1289,Student_289,16,Female,10th,Sunrise Academy,60.0,74.0,51.0,71.0,50.0,4.0,,Group C,Yes,High School,Yes
+1290,Student_290,17,Female,9th,National Grammar,83.0,73.0,99.0,46.0,94.0,7.9,76.2,None,Yes,Bachelor,Yes
+1291,Student_291,16,Male,9th,Greenwood High,50.0,57.0,52.0,92.0,81.0,6.1,80.7,Group C,Yes,None,Yes
+1292,Student_292,14,Male,11th,National Grammar,78.0,86.0,43.0,74.0,94.0,1.4,57.1,Group A,Yes,Bachelor,Yes
+1293,Student_293,14,Male,12th,Sunrise Academy,,81.0,78.0,36.0,76.0,6.2,83.1,Group B,Yes,High School,Yes
+1294,Student_294,17,Female,9th,Sunrise Academy,90.0,97.0,93.0,56.0,47.0,1.2,83.2,None,Yes,High School,No
+1295,Student_295,17,Female,12th,Sunrise Academy,40.0,77.0,41.0,39.0,47.0,0.7,95.1,Group A,No,Bachelor,Yes
+1296,Student_296,18,Female,10th,Greenwood High,67.0,82.0,65.0,63.0,66.0,3.5,77.8,Group B,Yes,Master,Yes
+1297,Student_297,18,Male,9th,City Public School,63.0,68.0,98.0,65.0,66.0,8.0,58.5,Group B,Yes,High School,No
+1298,Student_298,16,Male,11th,National Grammar,74.0,74.0,66.0,54.0,54.0,1.8,68.8,Group B,Yes,Bachelor,Yes
+1299,Student_299,17,Female,10th,National Grammar,52.0,95.0,66.0,35.0,95.0,5.5,84.5,Group C,No,,Yes
+1300,Student_300,14,Female,11th,City Public School,86.0,,54.0,53.0,47.0,1.8,65.8,Group A,No,Master,Yes
+1301,Student_301,18,Male,10th,National Grammar,73.0,96.0,47.0,47.0,56.0,5.9,67.6,Group A,Yes,Bachelor,No
+1302,Student_302,18,Male,9th,Greenwood High,50.0,92.0,46.0,35.0,73.0,4.3,91.9,Group B,Yes,Bachelor,Yes
+1303,Student_303,14,Male,11th,National Grammar,75.0,67.0,86.0,58.0,92.0,5.6,81.3,None,Yes,Master,No
+1304,Student_304,18,Male,11th,Sunrise Academy,90.0,50.0,94.0,54.0,61.0,2.0,,Group A,Yes,,Yes
+1305,Student_305,16,Female,10th,City Public School,56.0,82.0,85.0,84.0,51.0,6.1,,Group C,No,Master,Yes
+1306,Student_306,17,Male,11th,Greenwood High,74.0,44.0,79.0,75.0,57.0,8.0,87.9,None,Yes,Master,Yes
+1307,Student_307,14,Female,10th,City Public School,99.0,72.0,99.0,53.0,46.0,5.5,67.9,None,No,Master,No
+1308,Student_308,17,Female,10th,Greenwood High,57.0,53.0,51.0,55.0,48.0,4.2,88.2,None,Yes,High School,No
+1309,Student_309,18,Female,10th,Sunrise Academy,79.0,70.0,52.0,57.0,54.0,7.4,58.2,None,No,High School,No
+1310,Student_310,18,Male,10th,City Public School,61.0,93.0,82.0,32.0,83.0,0.6,93.9,Group A,Yes,Master,No
+1311,Student_311,14,Male,9th,National Grammar,96.0,97.0,56.0,67.0,68.0,,77.5,Group B,No,High School,Yes
+1312,Student_312,16,Male,10th,Greenwood High,63.0,80.0,56.0,90.0,61.0,7.2,74.7,None,No,Bachelor,No
+1313,Student_313,15,Male,12th,City Public School,,37.0,95.0,80.0,96.0,1.0,82.5,Group C,No,High School,Yes
+1314,Student_314,14,Female,11th,National Grammar,58.0,99.0,75.0,77.0,50.0,3.9,83.1,Group C,Yes,None,No
+1315,Student_315,15,Male,12th,City Public School,76.0,42.0,60.0,50.0,63.0,2.0,60.9,Group B,Yes,High School,Yes
+1316,Student_316,15,Male,9th,City Public School,78.0,85.0,47.0,83.0,49.0,4.7,89.0,Group A,Yes,Bachelor,Yes
+1317,Student_317,16,Female,12th,City Public School,60.0,40.0,44.0,85.0,76.0,5.4,67.4,Group B,Yes,High School,Yes
+1318,Student_318,15,Male,11th,Greenwood High,,73.0,65.0,88.0,54.0,2.8,95.7,None,Yes,Bachelor,Yes
+1319,Student_319,15,Female,12th,National Grammar,67.0,94.0,55.0,80.0,53.0,3.9,91.8,Group A,Yes,Bachelor,Yes
+1320,Student_320,16,Female,9th,Sunrise Academy,44.0,62.0,75.0,49.0,71.0,2.6,70.6,Group A,Yes,Bachelor,No
+1321,Student_321,15,Female,10th,Greenwood High,56.0,88.0,67.0,88.0,57.0,3.3,91.3,None,Yes,Bachelor,Yes
+1322,Student_322,15,Female,12th,Greenwood High,76.0,71.0,93.0,38.0,63.0,1.7,71.0,Group C,Yes,High School,Yes
+1323,Student_323,15,Female,9th,Greenwood High,75.0,43.0,68.0,30.0,65.0,7.1,59.5,None,Yes,High School,No
+1324,Student_324,14,Female,9th,Sunrise Academy,93.0,90.0,86.0,58.0,68.0,0.6,98.3,Group B,Yes,High School,Yes
+1325,Student_325,14,Female,11th,National Grammar,58.0,93.0,51.0,92.0,82.0,7.1,84.4,None,Yes,Bachelor,No
+1326,Student_326,14,Female,11th,National Grammar,66.0,36.0,76.0,85.0,48.0,4.8,75.5,Group C,Yes,Bachelor,Yes
+1327,Student_327,16,Male,12th,National Grammar,92.0,95.0,69.0,97.0,68.0,3.0,72.9,None,Yes,Bachelor,No
+1328,Student_328,18,Male,10th,City Public School,73.0,92.0,62.0,64.0,79.0,5.9,69.6,Group B,No,,Yes
+1329,Student_329,15,Male,9th,City Public School,50.0,94.0,55.0,32.0,47.0,4.3,,Group B,No,Bachelor,Yes
+1330,Student_330,15,Male,12th,City Public School,93.0,74.0,53.0,36.0,48.0,4.2,61.1,Group C,No,None,Yes
+1331,Student_331,16,Female,9th,Sunrise Academy,84.0,70.0,49.0,56.0,81.0,1.3,69.2,Group B,No,Master,Yes
+1332,Student_332,15,Male,9th,City Public School,86.0,71.0,46.0,30.0,84.0,3.4,76.8,Group B,Yes,None,No
+1333,Student_333,14,Female,10th,Sunrise Academy,51.0,52.0,84.0,73.0,92.0,2.3,76.5,None,Yes,Master,Yes
+1334,Student_334,18,Male,10th,National Grammar,93.0,97.0,91.0,70.0,98.0,0.6,76.2,Group A,Yes,Bachelor,Yes
+1335,Student_335,17,Male,12th,City Public School,60.0,56.0,99.0,71.0,79.0,,,Group B,Yes,High School,Yes
+1336,Student_336,15,Male,10th,City Public School,93.0,45.0,76.0,62.0,75.0,1.2,61.5,Group B,Yes,High School,No
+1337,Student_337,14,Female,10th,Greenwood High,50.0,92.0,68.0,79.0,88.0,2.4,66.5,Group C,Yes,None,Yes
+1338,Student_338,17,Male,12th,Sunrise Academy,78.0,91.0,42.0,92.0,69.0,1.2,96.2,Group C,Yes,High School,No
+1339,Student_339,18,Female,10th,National Grammar,67.0,38.0,54.0,66.0,84.0,1.3,60.1,None,Yes,High School,Yes
+1340,Student_340,17,Female,11th,Greenwood High,44.0,41.0,75.0,88.0,57.0,2.0,89.1,None,No,Bachelor,Yes
+1341,Student_341,14,Male,9th,Greenwood High,56.0,95.0,86.0,77.0,48.0,8.0,89.1,Group B,Yes,High School,Yes
+1342,Student_342,17,Male,9th,National Grammar,95.0,88.0,85.0,34.0,90.0,0.5,91.4,Group A,Yes,Bachelor,No
+1343,Student_343,16,Male,9th,Greenwood High,,35.0,91.0,77.0,58.0,5.3,94.9,Group A,Yes,High School,No
+1344,Student_344,17,Female,9th,Sunrise Academy,80.0,89.0,58.0,32.0,57.0,1.6,66.8,None,Yes,Master,Yes
+1345,Student_345,15,Male,12th,Sunrise Academy,85.0,37.0,52.0,76.0,71.0,7.4,65.1,Group C,Yes,Bachelor,Yes
+1346,Student_346,15,Female,9th,City Public School,97.0,72.0,81.0,91.0,50.0,1.2,75.9,Group B,No,High School,No
+1347,Student_347,16,Female,9th,Greenwood High,51.0,35.0,60.0,43.0,61.0,7.7,66.9,Group B,Yes,,Yes
+1348,Student_348,14,Male,9th,City Public School,45.0,72.0,76.0,92.0,80.0,5.1,88.0,Group A,Yes,High School,Yes
+1349,Student_349,15,Male,9th,Greenwood High,56.0,63.0,66.0,90.0,84.0,0.5,83.6,None,Yes,High School,Yes
+1350,Student_350,18,Female,11th,Sunrise Academy,90.0,39.0,94.0,60.0,93.0,7.2,94.4,Group A,Yes,Bachelor,Yes
+1351,Student_351,15,Female,9th,Sunrise Academy,58.0,,91.0,46.0,79.0,4.4,58.7,Group A,No,Bachelor,Yes
+1352,Student_352,15,Female,11th,Sunrise Academy,65.0,81.0,68.0,53.0,61.0,2.5,96.2,None,Yes,Master,Yes
+1353,Student_353,14,Male,12th,Greenwood High,87.0,69.0,59.0,52.0,85.0,6.3,68.2,Group C,Yes,Bachelor,Yes
+1354,Student_354,17,Female,10th,Sunrise Academy,83.0,35.0,64.0,79.0,46.0,7.4,77.1,Group B,No,Master,No
+1355,Student_355,15,Male,9th,Greenwood High,83.0,46.0,45.0,99.0,57.0,4.1,74.7,Group C,No,Master,Yes
+1356,Student_356,16,Female,10th,City Public School,91.0,,75.0,56.0,96.0,2.9,89.2,None,Yes,Master,No
+1357,Student_357,17,Female,10th,Greenwood High,71.0,61.0,41.0,44.0,46.0,6.4,73.9,None,Yes,Bachelor,Yes
+1358,Student_358,18,Male,12th,City Public School,45.0,90.0,61.0,79.0,96.0,5.6,97.5,Group B,Yes,High School,No
+1359,Student_359,14,Female,10th,Greenwood High,,57.0,71.0,65.0,72.0,,95.6,Group C,Yes,High School,Yes
+1360,Student_360,18,Male,11th,City Public School,97.0,59.0,55.0,37.0,87.0,5.7,94.2,Group B,Yes,,No
+1361,Student_361,17,Male,10th,Sunrise Academy,75.0,55.0,57.0,32.0,70.0,2.3,58.2,Group A,No,High School,Yes
+1362,Student_362,17,Female,10th,City Public School,77.0,95.0,44.0,91.0,66.0,7.5,93.4,Group A,Yes,High School,No
+1363,Student_363,17,Male,10th,Sunrise Academy,50.0,97.0,93.0,76.0,91.0,1.3,90.2,Group A,No,Bachelor,Yes
+1364,Student_364,18,Male,9th,Sunrise Academy,72.0,86.0,75.0,90.0,87.0,2.5,59.7,Group C,Yes,,Yes
+1365,Student_365,17,Female,9th,City Public School,63.0,59.0,69.0,61.0,99.0,4.4,59.8,Group A,Yes,Bachelor,No
+1366,Student_366,18,Male,11th,Greenwood High,62.0,89.0,84.0,42.0,47.0,4.7,59.6,Group B,Yes,None,Yes
+1367,Student_367,17,Male,11th,Greenwood High,54.0,80.0,58.0,30.0,79.0,0.6,55.5,Group C,No,Bachelor,Yes
+1368,Student_368,16,Male,9th,National Grammar,66.0,66.0,62.0,63.0,56.0,6.4,79.7,Group B,No,Bachelor,No
+1369,Student_369,17,Female,11th,Greenwood High,50.0,89.0,73.0,91.0,68.0,3.2,98.8,None,Yes,High School,Yes
+1370,Student_370,18,Male,9th,National Grammar,96.0,39.0,52.0,60.0,49.0,3.5,74.7,Group C,Yes,Bachelor,Yes
+1371,Student_371,15,Female,12th,Greenwood High,90.0,,82.0,93.0,64.0,6.6,79.3,Group B,Yes,Bachelor,No
+1372,Student_372,17,Female,10th,Greenwood High,,,93.0,54.0,83.0,3.3,98.6,Group B,No,High School,Yes
+1373,Student_373,15,Male,10th,Sunrise Academy,56.0,92.0,68.0,67.0,83.0,0.9,66.5,Group C,No,High School,No
+1374,Student_374,16,Male,11th,National Grammar,90.0,73.0,75.0,43.0,57.0,1.8,93.6,None,Yes,High School,Yes
+1375,Student_375,14,Male,9th,Greenwood High,92.0,95.0,61.0,37.0,85.0,7.7,79.6,Group C,Yes,Bachelor,No
+1376,Student_376,16,Female,9th,National Grammar,53.0,43.0,91.0,83.0,97.0,1.0,80.6,Group A,Yes,Bachelor,Yes
+1377,Student_377,17,Male,11th,Sunrise Academy,66.0,40.0,91.0,31.0,89.0,3.2,70.4,Group A,Yes,,No
+1378,Student_378,15,Male,9th,Sunrise Academy,57.0,69.0,86.0,85.0,56.0,4.3,80.3,None,Yes,Bachelor,Yes
+1379,Student_379,15,Male,12th,National Grammar,67.0,73.0,75.0,90.0,57.0,4.2,58.3,Group B,Yes,High School,Yes
+1380,Student_380,18,Male,10th,Sunrise Academy,90.0,56.0,48.0,51.0,54.0,0.5,89.4,Group B,No,Bachelor,No
+1381,Student_381,15,Male,11th,City Public School,86.0,75.0,78.0,64.0,77.0,4.3,67.8,Group B,Yes,High School,Yes
+1382,Student_382,18,Female,11th,City Public School,86.0,39.0,90.0,45.0,84.0,3.4,94.9,Group C,No,Bachelor,No
+1383,Student_383,14,Female,9th,Sunrise Academy,43.0,76.0,58.0,79.0,98.0,7.8,71.6,Group C,Yes,High School,No
+1384,Student_384,17,Male,11th,City Public School,46.0,64.0,77.0,72.0,60.0,1.7,61.4,None,Yes,Bachelor,Yes
+1385,Student_385,18,Male,12th,Greenwood High,84.0,91.0,45.0,46.0,89.0,3.2,86.3,Group A,Yes,,No
+1386,Student_386,14,Male,9th,National Grammar,74.0,63.0,91.0,87.0,79.0,3.6,62.4,Group B,Yes,Bachelor,Yes
+1387,Student_387,15,Male,9th,Greenwood High,87.0,71.0,86.0,31.0,47.0,3.4,88.9,Group A,Yes,High School,Yes
+1388,Student_388,15,Female,9th,National Grammar,48.0,,54.0,33.0,49.0,5.5,98.6,Group C,Yes,Bachelor,Yes
+1389,Student_389,14,Male,9th,Sunrise Academy,47.0,,96.0,68.0,70.0,2.1,90.1,Group C,Yes,High School,No
+1390,Student_390,15,Female,12th,Greenwood High,91.0,80.0,59.0,35.0,55.0,2.2,56.0,Group C,Yes,Bachelor,Yes
+1391,Student_391,14,Female,9th,Sunrise Academy,84.0,57.0,48.0,98.0,51.0,6.0,82.0,Group A,Yes,Bachelor,No
+1392,Student_392,18,Male,11th,Sunrise Academy,56.0,79.0,71.0,98.0,97.0,4.3,86.3,None,Yes,Bachelor,Yes
+1393,Student_393,18,Female,12th,National Grammar,,51.0,43.0,49.0,54.0,3.6,92.1,None,Yes,Bachelor,No
+1394,Student_394,14,Female,10th,National Grammar,88.0,40.0,89.0,93.0,86.0,1.8,57.5,Group C,Yes,High School,Yes
+1395,Student_395,18,Female,10th,National Grammar,72.0,52.0,57.0,45.0,96.0,1.9,76.6,Group B,No,Bachelor,No
+1396,Student_396,18,Female,11th,Greenwood High,71.0,56.0,44.0,80.0,78.0,0.6,79.1,Group A,Yes,Bachelor,Yes
+1397,Student_397,18,Male,11th,City Public School,47.0,,59.0,66.0,47.0,1.2,62.6,Group C,No,Master,Yes
+1398,Student_398,16,Male,12th,National Grammar,58.0,64.0,62.0,98.0,52.0,4.7,69.5,Group A,Yes,Bachelor,Yes
+1399,Student_399,17,Female,10th,National Grammar,,66.0,50.0,71.0,75.0,7.2,74.8,Group A,Yes,Bachelor,No
+1400,Student_400,15,Male,10th,Greenwood High,42.0,76.0,76.0,86.0,55.0,2.7,92.5,None,Yes,High School,Yes
+1401,Student_401,16,Male,10th,National Grammar,98.0,44.0,61.0,95.0,89.0,3.0,96.8,Group C,No,Bachelor,No
+1402,Student_402,18,Male,10th,Greenwood High,44.0,70.0,97.0,38.0,51.0,1.4,83.3,None,No,Bachelor,Yes
+1403,Student_403,14,Male,10th,Sunrise Academy,52.0,68.0,43.0,93.0,89.0,3.4,72.8,Group C,Yes,Master,No
+1404,Student_404,18,Male,9th,National Grammar,86.0,62.0,68.0,51.0,46.0,0.8,66.4,Group A,Yes,High School,Yes
+1405,Student_405,17,Female,11th,National Grammar,85.0,45.0,83.0,63.0,50.0,7.4,99.2,None,Yes,None,Yes
+1406,Student_406,18,Male,9th,Sunrise Academy,70.0,73.0,73.0,84.0,85.0,5.5,99.2,Group A,Yes,None,Yes
+1407,Student_407,14,Male,10th,Sunrise Academy,94.0,81.0,52.0,58.0,76.0,7.9,96.6,Group C,Yes,Bachelor,Yes
+1408,Student_408,17,Male,12th,Sunrise Academy,55.0,53.0,81.0,67.0,64.0,7.1,90.4,Group B,Yes,Master,Yes
+1409,Student_409,18,Male,12th,National Grammar,89.0,49.0,48.0,47.0,78.0,4.0,69.7,None,Yes,None,No
+1410,Student_410,17,Female,10th,City Public School,71.0,62.0,81.0,94.0,94.0,4.4,,None,No,Bachelor,No
+1411,Student_411,15,Female,10th,City Public School,61.0,58.0,70.0,30.0,60.0,1.9,73.4,Group A,Yes,Bachelor,No
+1412,Student_412,15,Female,12th,City Public School,68.0,43.0,46.0,33.0,69.0,4.0,69.7,Group A,Yes,Bachelor,Yes
+1413,Student_413,18,Female,9th,National Grammar,61.0,81.0,43.0,33.0,56.0,7.3,88.5,Group B,Yes,High School,Yes
+1414,Student_414,17,Male,9th,Sunrise Academy,82.0,67.0,58.0,56.0,51.0,0.9,58.6,None,Yes,Bachelor,No
+1415,Student_415,14,Female,10th,National Grammar,42.0,96.0,81.0,72.0,83.0,7.0,57.2,Group C,Yes,None,Yes
+1416,Student_416,18,Male,9th,Sunrise Academy,93.0,53.0,69.0,88.0,61.0,,75.2,Group C,Yes,Bachelor,No
+1417,Student_417,15,Male,12th,National Grammar,49.0,74.0,70.0,61.0,89.0,7.2,75.1,None,Yes,High School,Yes
+1418,Student_418,15,Male,9th,National Grammar,81.0,81.0,74.0,62.0,55.0,7.6,95.3,None,No,Bachelor,No
+1419,Student_419,18,Male,10th,Sunrise Academy,60.0,99.0,96.0,57.0,50.0,5.5,60.7,None,No,Bachelor,Yes
+1420,Student_420,17,Male,12th,City Public School,55.0,63.0,60.0,84.0,67.0,5.5,60.5,Group B,Yes,,No
+1421,Student_421,15,Female,9th,Sunrise Academy,51.0,84.0,70.0,89.0,71.0,3.9,61.6,Group C,Yes,High School,Yes
+1422,Student_422,17,Female,11th,Greenwood High,,47.0,58.0,99.0,90.0,6.8,56.3,Group C,Yes,Bachelor,No
+1423,Student_423,15,Female,12th,Greenwood High,80.0,35.0,70.0,91.0,50.0,7.7,58.2,Group A,Yes,Bachelor,Yes
+1424,Student_424,15,Female,12th,Sunrise Academy,63.0,68.0,92.0,63.0,82.0,6.3,84.7,Group A,Yes,Bachelor,No
+1425,Student_425,16,Male,11th,National Grammar,,82.0,71.0,85.0,46.0,5.2,74.4,None,Yes,High School,No
+1426,Student_426,15,Female,11th,Greenwood High,95.0,82.0,41.0,42.0,66.0,5.1,89.4,Group A,Yes,None,Yes
+1427,Student_427,14,Male,12th,Greenwood High,69.0,83.0,98.0,85.0,64.0,6.9,99.7,Group B,No,High School,Yes
+1428,Student_428,18,Female,11th,National Grammar,96.0,98.0,91.0,47.0,69.0,4.6,84.7,Group C,Yes,High School,Yes
+1429,Student_429,18,Male,10th,National Grammar,69.0,95.0,49.0,83.0,59.0,6.5,57.3,Group C,No,Master,Yes
+1430,Student_430,17,Male,10th,City Public School,86.0,63.0,41.0,72.0,93.0,4.3,59.7,Group A,Yes,None,Yes
+1431,Student_431,15,Female,10th,National Grammar,74.0,,41.0,68.0,73.0,1.0,94.6,None,Yes,High School,Yes
+1432,Student_432,14,Male,12th,Sunrise Academy,58.0,,99.0,90.0,52.0,3.4,78.7,Group A,Yes,None,Yes
+1433,Student_433,17,Male,11th,Sunrise Academy,89.0,51.0,63.0,71.0,81.0,3.8,92.1,None,Yes,None,No
+1434,Student_434,16,Female,11th,City Public School,47.0,47.0,56.0,47.0,93.0,1.6,93.5,Group B,Yes,Bachelor,No
+1435,Student_435,17,Male,9th,Greenwood High,65.0,60.0,71.0,52.0,96.0,1.3,96.7,Group C,Yes,Bachelor,Yes
+1436,Student_436,17,Female,9th,Greenwood High,88.0,83.0,55.0,83.0,77.0,4.5,97.7,Group B,Yes,None,No
+1437,Student_437,15,Female,11th,National Grammar,79.0,41.0,55.0,59.0,66.0,1.1,80.0,Group C,Yes,None,No
+1438,Student_438,16,Female,11th,Sunrise Academy,46.0,92.0,85.0,87.0,94.0,2.8,70.3,Group B,Yes,None,Yes
+1439,Student_439,17,Male,11th,Greenwood High,69.0,83.0,78.0,97.0,91.0,6.1,98.3,Group A,No,Bachelor,Yes
+1440,Student_440,14,Male,12th,City Public School,46.0,87.0,92.0,96.0,49.0,7.7,79.6,Group B,Yes,Bachelor,Yes
+1441,Student_441,14,Male,11th,City Public School,42.0,99.0,70.0,47.0,83.0,5.9,57.9,Group B,Yes,None,No
+1442,Student_442,18,Female,9th,Sunrise Academy,40.0,96.0,82.0,36.0,62.0,7.9,83.9,Group A,Yes,Bachelor,No
+1443,Student_443,16,Male,12th,City Public School,75.0,51.0,63.0,69.0,82.0,5.7,81.4,Group C,Yes,Bachelor,Yes
+1444,Student_444,16,Female,11th,City Public School,64.0,77.0,40.0,99.0,98.0,2.7,95.3,Group C,Yes,Master,No
+1445,Student_445,18,Female,9th,Sunrise Academy,76.0,59.0,50.0,94.0,97.0,5.5,84.4,Group A,Yes,Master,Yes
+1446,Student_446,17,Male,12th,National Grammar,40.0,37.0,94.0,97.0,81.0,5.8,70.7,Group B,Yes,High School,Yes
+1447,Student_447,16,Female,11th,National Grammar,54.0,63.0,60.0,78.0,74.0,3.3,98.5,Group B,Yes,High School,No
+1448,Student_448,14,Male,11th,City Public School,76.0,66.0,43.0,81.0,95.0,0.6,91.1,Group B,No,High School,No
+1449,Student_449,14,Male,11th,National Grammar,52.0,60.0,46.0,58.0,75.0,5.8,83.4,None,Yes,Bachelor,Yes
+1450,Student_450,15,Male,12th,National Grammar,79.0,50.0,65.0,50.0,54.0,,68.2,Group C,Yes,Master,Yes
+1451,Student_451,16,Male,9th,City Public School,47.0,59.0,86.0,38.0,59.0,,71.8,Group B,Yes,Bachelor,No
+1452,Student_452,17,Male,9th,National Grammar,44.0,88.0,89.0,76.0,86.0,1.7,85.1,Group C,Yes,High School,Yes
+1453,Student_453,18,Female,10th,City Public School,99.0,62.0,51.0,71.0,92.0,4.7,58.2,Group B,No,,No
+1454,Student_454,18,Female,11th,Greenwood High,48.0,90.0,70.0,80.0,88.0,4.3,,Group A,Yes,High School,Yes
+1455,Student_455,17,Female,10th,Sunrise Academy,40.0,99.0,56.0,85.0,62.0,0.6,87.1,Group A,Yes,High School,Yes
+1456,Student_456,15,Male,10th,Sunrise Academy,75.0,75.0,72.0,80.0,67.0,3.2,76.6,Group C,Yes,Bachelor,Yes
+1457,Student_457,18,Male,9th,National Grammar,74.0,85.0,50.0,99.0,77.0,5.0,73.1,Group C,Yes,None,Yes
+1458,Student_458,16,Male,12th,National Grammar,41.0,63.0,67.0,49.0,60.0,6.9,61.8,Group A,Yes,High School,No
+1459,Student_459,15,Female,12th,National Grammar,79.0,53.0,71.0,56.0,98.0,7.2,74.9,None,Yes,Bachelor,Yes
+1460,Student_460,16,Male,9th,Sunrise Academy,62.0,75.0,40.0,67.0,82.0,4.1,89.7,Group A,Yes,None,Yes
+1461,Student_461,14,Female,12th,Greenwood High,48.0,79.0,86.0,94.0,79.0,6.0,66.9,Group B,Yes,None,Yes
+1462,Student_462,15,Female,10th,Greenwood High,73.0,49.0,67.0,83.0,78.0,2.9,55.2,None,Yes,High School,Yes
+1463,Student_463,18,Male,11th,Sunrise Academy,85.0,37.0,92.0,53.0,72.0,3.1,85.1,Group A,Yes,Master,No
+1464,Student_464,15,Male,9th,Greenwood High,53.0,45.0,81.0,76.0,46.0,2.0,98.8,None,Yes,Bachelor,No
+1465,Student_465,15,Female,11th,Sunrise Academy,43.0,87.0,46.0,92.0,74.0,4.7,82.3,None,No,None,Yes
+1466,Student_466,15,Male,12th,Greenwood High,69.0,80.0,41.0,86.0,57.0,2.9,60.4,None,Yes,Bachelor,No
+1467,Student_467,15,Female,11th,City Public School,70.0,64.0,81.0,84.0,85.0,1.1,69.4,Group C,Yes,High School,No
+1468,Student_468,16,Male,12th,City Public School,77.0,91.0,63.0,89.0,60.0,5.6,94.0,Group A,Yes,Bachelor,No
+1469,Student_469,14,Male,12th,Sunrise Academy,50.0,52.0,43.0,91.0,49.0,5.8,65.5,Group C,Yes,Bachelor,Yes
+1470,Student_470,17,Female,10th,Greenwood High,74.0,85.0,83.0,59.0,99.0,3.2,82.3,Group C,Yes,Master,Yes
+1471,Student_471,15,Male,12th,National Grammar,47.0,82.0,58.0,51.0,72.0,1.1,73.1,Group B,No,Bachelor,Yes
+1472,Student_472,18,Female,10th,Greenwood High,42.0,42.0,65.0,58.0,97.0,3.7,64.4,Group B,Yes,Master,No
+1473,Student_473,15,Male,10th,City Public School,53.0,56.0,50.0,70.0,83.0,3.8,91.6,None,Yes,Master,No
+1474,Student_474,18,Female,10th,City Public School,99.0,40.0,79.0,71.0,89.0,5.5,88.4,None,Yes,Master,Yes
+1475,Student_475,16,Female,9th,Greenwood High,52.0,91.0,89.0,94.0,64.0,2.9,84.8,Group B,Yes,Bachelor,Yes
+1476,Student_476,18,Male,9th,Greenwood High,84.0,70.0,82.0,60.0,68.0,5.6,65.6,Group B,Yes,High School,Yes
+1477,Student_477,17,Female,12th,National Grammar,71.0,91.0,50.0,59.0,71.0,7.0,59.4,Group A,No,High School,Yes
+1478,Student_478,14,Male,10th,National Grammar,73.0,83.0,84.0,47.0,74.0,,80.9,None,Yes,None,No
+1479,Student_479,18,Male,9th,Greenwood High,84.0,79.0,42.0,46.0,89.0,7.8,79.9,None,Yes,High School,Yes
+1480,Student_480,18,Male,10th,Greenwood High,58.0,79.0,51.0,67.0,71.0,3.4,63.5,Group B,Yes,Bachelor,Yes
+1481,Student_481,14,Female,11th,Greenwood High,98.0,54.0,42.0,43.0,70.0,2.5,57.5,Group A,Yes,Bachelor,No
+1482,Student_482,17,Female,11th,Greenwood High,77.0,98.0,81.0,85.0,51.0,3.7,58.6,Group B,No,Master,Yes
+1483,Student_483,15,Male,11th,Sunrise Academy,55.0,37.0,66.0,51.0,86.0,1.2,99.7,Group B,Yes,None,No
+1484,Student_484,18,Male,12th,Greenwood High,41.0,88.0,88.0,96.0,91.0,1.4,90.3,Group C,Yes,High School,Yes
+1485,Student_485,14,Female,10th,National Grammar,79.0,98.0,93.0,85.0,97.0,3.6,96.5,None,Yes,Bachelor,Yes
+1486,Student_486,16,Male,11th,City Public School,56.0,74.0,41.0,48.0,82.0,6.2,63.8,Group A,No,High School,Yes
+1487,Student_487,14,Male,9th,Sunrise Academy,94.0,93.0,88.0,86.0,49.0,7.3,98.2,Group C,No,High School,No
+1488,Student_488,16,Female,11th,Greenwood High,73.0,89.0,55.0,73.0,67.0,,61.4,None,Yes,Master,Yes
+1489,Student_489,17,Male,11th,City Public School,81.0,96.0,41.0,64.0,72.0,1.3,77.9,Group B,Yes,Bachelor,Yes
+1490,Student_490,15,Female,11th,Sunrise Academy,99.0,38.0,99.0,30.0,78.0,5.5,92.3,Group A,Yes,High School,No
+1491,Student_491,14,Male,12th,City Public School,55.0,94.0,93.0,81.0,97.0,5.3,70.7,None,Yes,Bachelor,Yes
+1492,Student_492,18,Female,9th,Greenwood High,77.0,64.0,69.0,99.0,59.0,,74.1,Group B,Yes,Bachelor,Yes
+1493,Student_493,17,Male,10th,Greenwood High,99.0,36.0,59.0,66.0,76.0,6.7,60.8,Group C,Yes,Bachelor,Yes
+1494,Student_494,14,Male,9th,National Grammar,41.0,96.0,77.0,94.0,70.0,7.0,60.5,Group A,Yes,,Yes
+1495,Student_495,18,Female,10th,Greenwood High,,83.0,67.0,80.0,92.0,3.6,82.9,None,Yes,,No
+1496,Student_496,14,Male,12th,Greenwood High,65.0,43.0,64.0,30.0,75.0,5.7,85.4,Group C,No,Bachelor,No
+1497,Student_497,16,Female,12th,Sunrise Academy,52.0,65.0,71.0,50.0,63.0,2.5,90.0,Group B,Yes,None,No
+1498,Student_498,14,Male,12th,National Grammar,95.0,95.0,49.0,82.0,53.0,8.0,80.1,Group B,Yes,None,No
+1499,Student_499,14,Female,12th,Sunrise Academy,86.0,82.0,99.0,45.0,73.0,1.8,84.1,None,Yes,Master,Yes
+1500,Student_500,14,Female,10th,City Public School,70.0,59.0,81.0,90.0,98.0,0.6,55.6,Group B,Yes,Bachelor,No
+1501,Student_501,17,Female,11th,Greenwood High,99.0,70.0,79.0,83.0,95.0,1.6,62.3,Group A,Yes,Bachelor,Yes
+1502,Student_502,14,Female,10th,City Public School,73.0,42.0,72.0,69.0,83.0,6.3,99.3,None,No,Bachelor,Yes
+1503,Student_503,18,Male,9th,Sunrise Academy,78.0,92.0,52.0,55.0,48.0,3.9,58.4,Group C,Yes,Master,Yes
+1504,Student_504,16,Male,12th,Greenwood High,42.0,79.0,95.0,94.0,47.0,3.9,85.5,None,No,Master,Yes
+1505,Student_505,16,Female,12th,Greenwood High,47.0,96.0,80.0,93.0,73.0,7.7,62.9,None,Yes,Bachelor,No
+1506,Student_506,14,Female,9th,Sunrise Academy,62.0,73.0,93.0,72.0,96.0,7.4,87.3,Group C,Yes,High School,Yes
+1507,Student_507,17,Female,10th,Sunrise Academy,53.0,92.0,81.0,46.0,55.0,2.8,86.8,Group B,Yes,High School,Yes
+1508,Student_508,17,Male,11th,Sunrise Academy,95.0,98.0,86.0,88.0,77.0,2.1,65.5,Group C,Yes,High School,Yes
+1509,Student_509,18,Male,11th,Sunrise Academy,94.0,78.0,76.0,52.0,82.0,6.9,67.1,Group A,Yes,High School,Yes
+1510,Student_510,14,Male,9th,Sunrise Academy,66.0,63.0,93.0,36.0,55.0,7.3,84.5,Group B,No,Bachelor,Yes
+1511,Student_511,16,Male,11th,Greenwood High,93.0,93.0,55.0,73.0,71.0,4.6,72.6,None,No,Bachelor,No
+1512,Student_512,17,Female,10th,Sunrise Academy,68.0,43.0,84.0,82.0,77.0,5.2,63.8,Group B,No,Master,Yes
+1513,Student_513,14,Female,10th,Greenwood High,78.0,40.0,61.0,63.0,65.0,2.4,87.9,Group B,Yes,Bachelor,No
+1514,Student_514,17,Female,9th,Greenwood High,92.0,63.0,96.0,75.0,83.0,6.5,61.9,Group A,No,Bachelor,Yes
+1515,Student_515,17,Male,10th,Sunrise Academy,78.0,92.0,59.0,97.0,75.0,,93.5,Group B,Yes,High School,Yes
+1516,Student_516,16,Male,12th,Sunrise Academy,40.0,51.0,89.0,45.0,82.0,4.3,78.2,Group B,Yes,,No
+1517,Student_517,15,Male,9th,National Grammar,56.0,50.0,82.0,48.0,90.0,,59.8,Group B,Yes,,No
+1518,Student_518,18,Female,10th,Greenwood High,80.0,37.0,66.0,31.0,46.0,7.4,,None,Yes,Bachelor,Yes
+1519,Student_519,18,Female,9th,Sunrise Academy,69.0,55.0,80.0,39.0,71.0,5.1,78.4,Group B,Yes,High School,No
+1520,Student_520,16,Male,11th,Sunrise Academy,92.0,98.0,55.0,79.0,80.0,1.9,68.4,Group C,Yes,Bachelor,No
+1521,Student_521,17,Female,10th,Sunrise Academy,52.0,70.0,73.0,41.0,55.0,5.0,74.0,Group B,Yes,Bachelor,No
+1522,Student_522,14,Male,12th,National Grammar,,96.0,71.0,99.0,91.0,5.6,68.4,Group A,No,High School,No
+1523,Student_523,17,Male,10th,National Grammar,58.0,76.0,65.0,51.0,62.0,4.4,66.8,Group B,Yes,High School,No
+1524,Student_524,16,Female,9th,City Public School,92.0,76.0,64.0,61.0,45.0,5.9,62.4,Group B,Yes,Bachelor,Yes
+1525,Student_525,18,Male,9th,Greenwood High,58.0,95.0,41.0,30.0,79.0,4.9,71.3,None,No,High School,No
+1526,Student_526,17,Female,10th,City Public School,96.0,47.0,51.0,83.0,79.0,7.6,,Group C,No,Bachelor,Yes
+1527,Student_527,18,Male,12th,Sunrise Academy,64.0,45.0,79.0,87.0,75.0,0.9,85.8,Group B,Yes,Bachelor,No
+1528,Student_528,14,Female,12th,National Grammar,61.0,88.0,48.0,99.0,72.0,1.3,85.8,Group C,No,Bachelor,Yes
+1529,Student_529,18,Female,12th,National Grammar,70.0,50.0,51.0,47.0,83.0,1.8,77.6,Group A,No,Bachelor,Yes
+1530,Student_530,18,Female,9th,City Public School,,42.0,65.0,35.0,45.0,5.7,90.0,None,No,Bachelor,Yes
+1531,Student_531,15,Male,10th,National Grammar,94.0,93.0,48.0,74.0,69.0,5.3,92.9,Group C,No,Master,Yes
+1532,Student_532,15,Male,11th,Sunrise Academy,62.0,91.0,49.0,52.0,87.0,7.2,81.1,None,Yes,High School,Yes
+1533,Student_533,15,Female,9th,National Grammar,71.0,74.0,71.0,52.0,82.0,6.0,82.9,Group B,Yes,Bachelor,Yes
+1534,Student_534,18,Female,12th,City Public School,49.0,93.0,96.0,55.0,64.0,4.3,67.7,Group A,Yes,High School,No
+1535,Student_535,16,Male,10th,Sunrise Academy,49.0,36.0,73.0,36.0,47.0,7.9,95.3,None,Yes,High School,No
+1536,Student_536,18,Male,12th,City Public School,75.0,44.0,87.0,73.0,95.0,,56.1,Group B,Yes,High School,Yes
+1537,Student_537,16,Male,11th,National Grammar,47.0,78.0,59.0,56.0,46.0,,70.7,Group C,Yes,Bachelor,No
+1538,Student_538,16,Female,12th,City Public School,93.0,45.0,78.0,55.0,62.0,3.7,87.5,Group A,Yes,High School,Yes
+1539,Student_539,15,Male,12th,City Public School,91.0,36.0,99.0,65.0,88.0,5.4,58.6,Group A,Yes,High School,Yes
+1540,Student_540,17,Male,11th,Greenwood High,59.0,84.0,41.0,84.0,54.0,6.0,63.2,Group C,Yes,Master,No
+1541,Student_541,14,Female,10th,National Grammar,71.0,46.0,40.0,93.0,49.0,5.3,81.5,Group C,No,Bachelor,No
+1542,Student_542,15,Male,9th,National Grammar,89.0,57.0,90.0,86.0,53.0,1.6,80.2,Group A,Yes,Bachelor,Yes
+1543,Student_543,15,Male,10th,City Public School,53.0,52.0,99.0,98.0,46.0,3.8,88.3,None,Yes,Bachelor,Yes
+1544,Student_544,17,Male,11th,Greenwood High,89.0,96.0,75.0,90.0,78.0,,91.6,Group A,Yes,Master,Yes
+1545,Student_545,14,Female,12th,National Grammar,67.0,96.0,63.0,31.0,82.0,6.9,60.8,Group C,Yes,Bachelor,Yes
+1546,Student_546,18,Female,10th,Sunrise Academy,85.0,72.0,93.0,84.0,75.0,3.8,55.8,None,No,High School,Yes
+1547,Student_547,18,Female,9th,City Public School,91.0,72.0,66.0,67.0,54.0,7.4,86.0,Group B,Yes,Master,No
+1548,Student_548,15,Female,11th,National Grammar,92.0,95.0,41.0,58.0,94.0,3.8,68.6,Group A,Yes,Bachelor,No
+1549,Student_549,14,Female,10th,Sunrise Academy,63.0,35.0,70.0,55.0,56.0,4.6,83.2,Group C,Yes,High School,No
+1550,Student_550,15,Female,9th,National Grammar,54.0,79.0,96.0,64.0,80.0,6.5,61.8,Group B,Yes,Bachelor,Yes
+1551,Student_551,16,Female,11th,Sunrise Academy,61.0,62.0,53.0,96.0,98.0,4.9,76.1,Group A,Yes,High School,No
+1552,Student_552,15,Male,9th,City Public School,69.0,55.0,41.0,58.0,65.0,7.7,77.7,Group A,Yes,Master,Yes
+1553,Student_553,15,Male,11th,National Grammar,43.0,47.0,68.0,63.0,93.0,5.5,,None,Yes,High School,Yes
+1554,Student_554,18,Female,12th,National Grammar,52.0,61.0,54.0,70.0,91.0,4.4,78.1,Group C,No,Master,Yes
+1555,Student_555,18,Male,10th,Greenwood High,98.0,41.0,51.0,70.0,50.0,0.7,77.3,Group B,Yes,Master,No
+1556,Student_556,18,Male,9th,City Public School,62.0,56.0,76.0,52.0,92.0,3.6,70.0,Group A,Yes,Bachelor,No
+1557,Student_557,16,Female,11th,Sunrise Academy,47.0,87.0,67.0,32.0,93.0,,58.2,None,Yes,Bachelor,Yes
+1558,Student_558,18,Male,9th,National Grammar,57.0,38.0,59.0,87.0,47.0,6.1,59.0,Group B,Yes,High School,Yes
+1559,Student_559,14,Male,9th,National Grammar,51.0,57.0,78.0,61.0,54.0,2.1,74.5,Group B,Yes,None,Yes
+1560,Student_560,17,Male,10th,Sunrise Academy,94.0,67.0,63.0,60.0,49.0,2.0,71.0,Group A,Yes,,No
+1561,Student_561,14,Male,12th,City Public School,70.0,62.0,60.0,72.0,90.0,,78.2,Group B,No,Bachelor,Yes
+1562,Student_562,14,Male,9th,Greenwood High,53.0,42.0,49.0,36.0,70.0,1.4,68.7,Group A,Yes,Bachelor,Yes
+1563,Student_563,18,Female,11th,Greenwood High,73.0,35.0,85.0,30.0,65.0,2.8,86.0,None,No,High School,No
+1564,Student_564,17,Female,11th,National Grammar,57.0,71.0,53.0,90.0,89.0,7.1,93.9,None,Yes,,Yes
+1565,Student_565,17,Female,12th,Sunrise Academy,,97.0,76.0,43.0,70.0,6.3,68.4,Group B,No,Master,Yes
+1566,Student_566,17,Male,11th,National Grammar,73.0,56.0,57.0,81.0,82.0,6.0,63.7,Group A,Yes,High School,Yes
+1567,Student_567,16,Female,12th,Sunrise Academy,50.0,55.0,63.0,35.0,88.0,6.5,60.2,Group C,Yes,Master,No
+1568,Student_568,18,Male,11th,Greenwood High,80.0,69.0,53.0,39.0,70.0,2.5,82.7,None,Yes,High School,Yes
+1569,Student_569,17,Male,10th,City Public School,51.0,39.0,73.0,59.0,52.0,7.2,75.0,Group A,No,,No
+1570,Student_570,16,Male,9th,Sunrise Academy,88.0,94.0,97.0,50.0,49.0,1.5,63.5,Group A,No,None,No
+1571,Student_571,15,Male,10th,Greenwood High,54.0,80.0,51.0,89.0,59.0,3.0,84.4,Group A,Yes,Bachelor,Yes
+1572,Student_572,15,Female,9th,National Grammar,96.0,84.0,61.0,92.0,60.0,4.9,61.7,Group B,Yes,Bachelor,Yes
+1573,Student_573,16,Female,9th,Sunrise Academy,70.0,82.0,95.0,71.0,45.0,1.3,79.9,Group C,Yes,High School,Yes
+1574,Student_574,16,Male,9th,City Public School,88.0,40.0,45.0,80.0,60.0,6.0,,Group B,Yes,Bachelor,Yes
+1575,Student_575,18,Female,10th,National Grammar,97.0,,75.0,93.0,81.0,3.4,88.0,None,Yes,Bachelor,No
+1576,Student_576,18,Male,9th,National Grammar,68.0,93.0,84.0,85.0,47.0,6.4,57.5,Group B,No,,No
+1577,Student_577,15,Female,10th,Greenwood High,65.0,63.0,75.0,70.0,96.0,4.2,95.0,Group A,Yes,Bachelor,Yes
+1578,Student_578,17,Female,12th,Sunrise Academy,57.0,52.0,61.0,61.0,91.0,,86.6,Group B,Yes,,Yes
+1579,Student_579,15,Male,11th,National Grammar,71.0,36.0,53.0,44.0,75.0,6.0,64.7,Group A,Yes,Bachelor,Yes
+1580,Student_580,17,Female,11th,City Public School,61.0,42.0,55.0,91.0,57.0,2.4,63.3,Group C,Yes,Master,Yes
+1581,Student_581,17,Male,9th,Sunrise Academy,77.0,88.0,75.0,56.0,60.0,4.2,74.4,Group B,Yes,Master,Yes
+1582,Student_582,18,Female,10th,City Public School,56.0,72.0,95.0,57.0,99.0,1.1,91.8,Group B,Yes,Master,Yes
+1583,Student_583,14,Male,11th,National Grammar,62.0,82.0,64.0,93.0,87.0,5.1,92.9,Group B,Yes,High School,No
+1584,Student_584,14,Male,10th,City Public School,63.0,61.0,71.0,88.0,65.0,5.5,78.4,Group A,No,Bachelor,Yes
+1585,Student_585,16,Female,10th,Greenwood High,89.0,54.0,72.0,87.0,46.0,3.3,93.7,Group A,Yes,Bachelor,Yes
+1586,Student_586,18,Female,9th,City Public School,47.0,46.0,84.0,31.0,98.0,7.7,55.2,Group B,Yes,None,No
+1587,Student_587,17,Male,11th,Sunrise Academy,80.0,77.0,75.0,65.0,71.0,7.1,56.6,Group B,Yes,Bachelor,Yes
+1588,Student_588,14,Female,9th,City Public School,45.0,95.0,59.0,42.0,82.0,5.8,96.0,Group C,No,Bachelor,Yes
+1589,Student_589,17,Female,9th,City Public School,44.0,65.0,57.0,44.0,70.0,5.9,89.9,Group C,No,High School,Yes
+1590,Student_590,14,Male,11th,Greenwood High,83.0,95.0,77.0,89.0,82.0,2.4,75.3,None,Yes,None,Yes
+1591,Student_591,14,Male,11th,City Public School,96.0,69.0,42.0,51.0,90.0,5.4,88.9,Group C,Yes,Bachelor,No
+1592,Student_592,14,Female,12th,City Public School,68.0,49.0,62.0,92.0,69.0,2.0,98.0,Group C,No,None,No
+1593,Student_593,18,Male,12th,National Grammar,67.0,50.0,71.0,54.0,55.0,1.6,89.7,Group C,Yes,None,No
+1594,Student_594,15,Male,10th,National Grammar,50.0,47.0,84.0,77.0,52.0,,92.9,Group A,Yes,High School,No
+1595,Student_595,17,Male,11th,Sunrise Academy,96.0,69.0,98.0,72.0,52.0,5.2,89.2,Group C,No,,Yes
+1596,Student_596,18,Female,12th,National Grammar,40.0,93.0,55.0,67.0,77.0,3.7,62.6,Group C,No,Master,No
+1597,Student_597,18,Female,10th,National Grammar,82.0,55.0,98.0,70.0,97.0,2.7,92.5,Group B,Yes,Bachelor,No
+1598,Student_598,18,Male,10th,National Grammar,58.0,88.0,44.0,74.0,51.0,5.0,63.8,Group A,Yes,Bachelor,Yes
+1599,Student_599,18,Female,10th,National Grammar,48.0,,43.0,69.0,82.0,0.9,,None,Yes,Master,Yes
+1600,Student_600,18,Male,12th,Greenwood High,,82.0,60.0,46.0,65.0,1.2,75.6,None,Yes,Bachelor,Yes
+1601,Student_601,16,Female,11th,National Grammar,73.0,69.0,79.0,86.0,52.0,0.7,85.5,Group C,No,High School,Yes
+1602,Student_602,17,Male,9th,Greenwood High,83.0,72.0,90.0,31.0,95.0,4.2,77.4,None,No,Bachelor,Yes
+1603,Student_603,18,Male,10th,Greenwood High,43.0,65.0,53.0,91.0,98.0,5.0,59.2,None,No,High School,No
+1604,Student_604,17,Female,12th,National Grammar,75.0,58.0,78.0,38.0,65.0,1.0,68.1,None,Yes,High School,No
+1605,Student_605,16,Male,12th,City Public School,57.0,83.0,70.0,97.0,64.0,5.9,99.3,Group C,Yes,Bachelor,Yes
+1606,Student_606,16,Female,9th,Greenwood High,54.0,66.0,53.0,46.0,52.0,2.2,98.2,None,Yes,Bachelor,Yes
+1607,Student_607,17,Female,9th,City Public School,90.0,89.0,45.0,79.0,90.0,5.6,69.4,Group C,Yes,Bachelor,No
+1608,Student_608,14,Male,12th,City Public School,,92.0,51.0,69.0,75.0,7.9,99.8,Group B,No,Master,No
+1609,Student_609,15,Male,11th,National Grammar,58.0,37.0,55.0,87.0,94.0,5.7,93.0,Group B,Yes,Bachelor,Yes
+1610,Student_610,14,Female,9th,Sunrise Academy,88.0,,56.0,50.0,73.0,7.1,82.5,None,Yes,Bachelor,No
+1611,Student_611,14,Male,12th,National Grammar,45.0,59.0,84.0,47.0,92.0,7.6,56.8,Group B,Yes,Master,No
+1612,Student_612,14,Male,9th,Sunrise Academy,87.0,95.0,62.0,84.0,53.0,4.2,95.6,Group C,No,None,No
+1613,Student_613,18,Male,11th,Sunrise Academy,95.0,63.0,53.0,58.0,59.0,5.8,80.1,Group B,No,High School,Yes
+1614,Student_614,16,Male,10th,National Grammar,51.0,53.0,46.0,53.0,74.0,6.9,94.1,None,No,Bachelor,Yes
+1615,Student_615,14,Male,9th,National Grammar,90.0,77.0,85.0,46.0,70.0,3.2,92.5,Group C,Yes,Bachelor,No
+1616,Student_616,16,Female,11th,Sunrise Academy,76.0,95.0,71.0,47.0,54.0,2.5,92.5,Group A,Yes,High School,Yes
+1617,Student_617,17,Female,12th,National Grammar,56.0,77.0,54.0,71.0,73.0,7.6,86.4,Group C,Yes,High School,No
+1618,Student_618,15,Male,9th,Sunrise Academy,97.0,59.0,83.0,74.0,98.0,,68.1,Group B,Yes,High School,Yes
+1619,Student_619,17,Male,9th,City Public School,62.0,54.0,56.0,46.0,60.0,2.1,70.1,Group A,Yes,Bachelor,Yes
+1620,Student_620,17,Male,12th,National Grammar,65.0,82.0,80.0,43.0,80.0,3.9,68.9,Group C,Yes,Bachelor,Yes
+1621,Student_621,18,Female,10th,City Public School,68.0,58.0,93.0,78.0,64.0,6.5,55.9,Group A,Yes,,Yes
+1622,Student_622,15,Male,12th,Greenwood High,72.0,45.0,86.0,58.0,89.0,4.6,81.2,Group A,Yes,Bachelor,No
+1623,Student_623,17,Female,9th,City Public School,99.0,89.0,83.0,33.0,98.0,5.4,86.4,Group A,Yes,Bachelor,Yes
+1624,Student_624,17,Female,12th,City Public School,66.0,62.0,73.0,49.0,81.0,6.2,93.4,Group C,Yes,Bachelor,No
+1625,Student_625,15,Female,11th,Sunrise Academy,,97.0,44.0,76.0,66.0,5.2,61.3,Group B,Yes,High School,No
+1626,Student_626,15,Male,12th,City Public School,95.0,93.0,84.0,38.0,51.0,,79.5,Group C,Yes,High School,Yes
+1627,Student_627,17,Female,9th,National Grammar,94.0,39.0,66.0,56.0,67.0,6.1,55.4,Group B,Yes,Bachelor,No
+1628,Student_628,15,Male,12th,Sunrise Academy,49.0,85.0,91.0,44.0,85.0,6.0,59.3,Group C,Yes,High School,Yes
+1629,Student_629,17,Female,10th,Greenwood High,86.0,55.0,62.0,48.0,84.0,5.2,57.4,Group C,No,Bachelor,No
+1630,Student_630,17,Male,12th,National Grammar,62.0,46.0,79.0,81.0,73.0,3.2,87.6,Group C,No,Bachelor,Yes
+1631,Student_631,18,Female,10th,Greenwood High,60.0,84.0,98.0,55.0,60.0,3.5,58.6,Group B,Yes,High School,Yes
+1632,Student_632,14,Male,11th,City Public School,60.0,38.0,53.0,55.0,82.0,7.8,87.2,Group C,Yes,Master,Yes
+1633,Student_633,17,Female,10th,National Grammar,82.0,76.0,54.0,55.0,72.0,1.3,66.2,Group A,Yes,Bachelor,No
+1634,Student_634,16,Male,12th,National Grammar,52.0,72.0,82.0,75.0,92.0,2.5,94.5,Group C,Yes,High School,No
+1635,Student_635,14,Male,9th,Greenwood High,76.0,59.0,72.0,78.0,82.0,4.2,91.6,Group A,No,Bachelor,Yes
+1636,Student_636,14,Male,10th,National Grammar,72.0,48.0,92.0,82.0,75.0,6.8,98.1,None,Yes,Bachelor,Yes
+1637,Student_637,14,Male,11th,National Grammar,,66.0,70.0,32.0,58.0,1.7,94.8,None,Yes,High School,Yes
+1638,Student_638,18,Female,10th,National Grammar,,45.0,74.0,95.0,97.0,2.6,97.0,Group B,Yes,None,No
+1639,Student_639,17,Female,10th,City Public School,50.0,95.0,56.0,71.0,77.0,,93.6,Group B,Yes,Bachelor,Yes
+1640,Student_640,18,Male,10th,Greenwood High,56.0,52.0,67.0,48.0,53.0,5.8,86.2,None,Yes,Master,No
+1641,Student_641,17,Female,11th,National Grammar,43.0,61.0,58.0,46.0,71.0,2.3,62.7,Group C,Yes,Bachelor,Yes
+1642,Student_642,18,Male,12th,Sunrise Academy,86.0,89.0,85.0,62.0,68.0,3.4,67.2,Group C,Yes,Master,Yes
+1643,Student_643,18,Male,10th,Sunrise Academy,,88.0,93.0,78.0,57.0,3.8,64.6,Group C,Yes,Bachelor,No
+1644,Student_644,16,Female,10th,Sunrise Academy,69.0,55.0,62.0,85.0,70.0,,82.2,None,No,High School,No
+1645,Student_645,18,Male,9th,Sunrise Academy,48.0,,71.0,92.0,73.0,3.6,,Group A,No,Bachelor,No
+1646,Student_646,15,Male,11th,City Public School,60.0,39.0,79.0,32.0,95.0,1.6,94.0,Group B,Yes,High School,Yes
+1647,Student_647,16,Female,10th,National Grammar,59.0,75.0,52.0,78.0,93.0,4.4,97.9,Group A,Yes,High School,No
+1648,Student_648,18,Male,11th,Greenwood High,58.0,93.0,98.0,84.0,87.0,7.7,73.2,None,Yes,Bachelor,Yes
+1649,Student_649,14,Male,10th,National Grammar,58.0,88.0,59.0,55.0,72.0,5.1,77.8,Group A,Yes,Bachelor,No
+1650,Student_650,15,Male,12th,City Public School,51.0,56.0,74.0,81.0,72.0,7.9,98.7,Group C,Yes,High School,Yes
+1651,Student_651,15,Male,12th,Sunrise Academy,76.0,99.0,44.0,36.0,52.0,6.8,67.4,Group C,Yes,Master,Yes
+1652,Student_652,15,Female,10th,City Public School,81.0,98.0,48.0,75.0,67.0,0.8,90.7,Group A,No,Bachelor,Yes
+1653,Student_653,16,Female,12th,National Grammar,56.0,38.0,68.0,75.0,73.0,5.4,65.1,None,Yes,Master,Yes
+1654,Student_654,18,Female,10th,Greenwood High,76.0,99.0,45.0,45.0,49.0,,85.7,Group A,Yes,High School,Yes
+1655,Student_655,18,Male,12th,City Public School,93.0,49.0,64.0,53.0,86.0,4.7,66.4,Group C,Yes,Master,No
+1656,Student_656,14,Male,9th,Greenwood High,87.0,56.0,70.0,90.0,51.0,2.6,94.8,Group C,Yes,High School,No
+1657,Student_657,14,Female,9th,City Public School,78.0,81.0,61.0,83.0,86.0,3.1,80.3,None,Yes,None,No
+1658,Student_658,15,Male,9th,Greenwood High,67.0,80.0,41.0,91.0,80.0,7.4,63.4,Group A,No,Bachelor,Yes
+1659,Student_659,14,Male,11th,Greenwood High,80.0,48.0,84.0,30.0,85.0,2.0,65.1,Group C,No,Bachelor,Yes
+1660,Student_660,16,Male,11th,Sunrise Academy,74.0,84.0,44.0,78.0,71.0,7.1,77.2,Group C,Yes,Bachelor,No
+1661,Student_661,18,Male,9th,Greenwood High,86.0,54.0,99.0,54.0,90.0,0.7,98.3,Group A,Yes,Bachelor,Yes
+1662,Student_662,15,Female,11th,Sunrise Academy,87.0,,66.0,39.0,46.0,1.2,89.6,Group A,No,None,Yes
+1663,Student_663,14,Female,12th,National Grammar,57.0,67.0,64.0,45.0,69.0,6.9,,Group B,Yes,Bachelor,No
+1664,Student_664,16,Female,10th,National Grammar,53.0,93.0,47.0,87.0,53.0,5.2,70.2,None,No,High School,Yes
+1665,Student_665,16,Male,10th,Sunrise Academy,74.0,77.0,94.0,58.0,97.0,6.1,79.7,None,Yes,Bachelor,Yes
+1666,Student_666,14,Female,10th,Sunrise Academy,83.0,46.0,40.0,35.0,71.0,2.1,88.7,Group A,Yes,High School,No
+1667,Student_667,18,Female,9th,City Public School,80.0,74.0,59.0,45.0,45.0,4.5,90.3,None,Yes,,Yes
+1668,Student_668,14,Male,11th,City Public School,99.0,54.0,83.0,49.0,67.0,6.0,69.6,Group C,Yes,Bachelor,No
+1669,Student_669,15,Male,12th,City Public School,46.0,72.0,62.0,72.0,54.0,5.2,87.5,Group A,No,Bachelor,Yes
+1670,Student_670,14,Female,12th,National Grammar,80.0,37.0,71.0,55.0,86.0,4.0,84.6,Group A,Yes,Master,No
+1671,Student_671,16,Female,9th,City Public School,52.0,62.0,50.0,62.0,96.0,7.7,98.2,Group A,Yes,Bachelor,Yes
+1672,Student_672,14,Female,12th,Greenwood High,57.0,90.0,78.0,55.0,69.0,5.6,96.9,Group B,Yes,,No
+1673,Student_673,18,Female,12th,Greenwood High,76.0,47.0,86.0,74.0,98.0,7.3,90.5,None,No,None,Yes
+1674,Student_674,17,Male,12th,City Public School,52.0,71.0,93.0,92.0,47.0,6.0,87.6,Group B,Yes,Bachelor,No
+1675,Student_675,14,Female,12th,Greenwood High,,83.0,63.0,96.0,50.0,6.0,67.3,Group C,No,High School,Yes
+1676,Student_676,18,Female,11th,National Grammar,70.0,70.0,50.0,81.0,50.0,1.1,93.1,None,Yes,Bachelor,Yes
+1677,Student_677,18,Male,12th,Greenwood High,41.0,88.0,68.0,97.0,97.0,3.2,74.2,Group B,Yes,High School,No
+1678,Student_678,16,Female,10th,National Grammar,55.0,60.0,93.0,55.0,46.0,6.9,67.3,Group A,Yes,High School,Yes
+1679,Student_679,18,Male,9th,Sunrise Academy,48.0,74.0,65.0,31.0,62.0,2.2,72.3,Group B,Yes,Bachelor,Yes
+1680,Student_680,18,Male,11th,Sunrise Academy,,77.0,55.0,43.0,67.0,1.4,92.6,Group A,Yes,Master,Yes
+1681,Student_681,18,Male,12th,Sunrise Academy,77.0,56.0,74.0,59.0,46.0,2.9,61.7,Group B,Yes,Bachelor,Yes
+1682,Student_682,18,Female,11th,Sunrise Academy,50.0,54.0,59.0,78.0,56.0,2.2,75.5,Group B,Yes,Master,Yes
+1683,Student_683,15,Female,12th,Greenwood High,,42.0,85.0,41.0,66.0,7.4,77.2,Group B,Yes,Master,Yes
+1684,Student_684,15,Male,10th,City Public School,95.0,63.0,42.0,73.0,81.0,7.0,56.6,Group A,Yes,High School,Yes
+1685,Student_685,16,Female,9th,Greenwood High,61.0,74.0,40.0,62.0,64.0,4.2,63.8,Group B,Yes,High School,No
+1686,Student_686,14,Female,12th,National Grammar,72.0,64.0,97.0,42.0,83.0,1.0,92.2,None,Yes,Bachelor,Yes
+1687,Student_687,18,Male,12th,Greenwood High,75.0,89.0,92.0,55.0,68.0,,92.4,None,Yes,Master,Yes
+1688,Student_688,14,Male,12th,Greenwood High,84.0,50.0,86.0,50.0,92.0,5.2,68.2,None,No,,No
+1689,Student_689,14,Female,12th,National Grammar,62.0,80.0,40.0,57.0,64.0,7.8,94.4,Group A,Yes,Master,No
+1690,Student_690,16,Male,9th,Sunrise Academy,84.0,96.0,56.0,77.0,45.0,4.7,89.7,Group A,Yes,None,Yes
+1691,Student_691,18,Female,9th,Sunrise Academy,84.0,41.0,41.0,69.0,45.0,3.0,,None,Yes,High School,Yes
+1692,Student_692,18,Female,10th,Sunrise Academy,,79.0,68.0,95.0,61.0,4.4,88.7,None,Yes,Bachelor,No
+1693,Student_693,17,Female,9th,City Public School,48.0,93.0,59.0,52.0,45.0,7.8,98.3,None,Yes,,Yes
+1694,Student_694,14,Female,12th,National Grammar,63.0,90.0,45.0,77.0,97.0,5.7,75.7,Group C,Yes,High School,Yes
+1695,Student_695,14,Male,10th,National Grammar,47.0,82.0,47.0,31.0,96.0,5.5,65.7,None,Yes,High School,Yes
+1696,Student_696,15,Male,10th,Greenwood High,46.0,61.0,68.0,49.0,89.0,2.3,97.4,Group B,Yes,None,No
+1697,Student_697,17,Male,10th,City Public School,75.0,87.0,87.0,88.0,74.0,6.1,82.2,Group C,No,Bachelor,Yes
+1698,Student_698,15,Male,12th,Sunrise Academy,57.0,69.0,90.0,75.0,85.0,6.1,59.7,Group C,No,Master,No
+1699,Student_699,15,Female,11th,City Public School,42.0,85.0,72.0,32.0,91.0,2.9,80.8,Group A,Yes,Master,No
+1700,Student_700,15,Female,12th,National Grammar,67.0,71.0,42.0,84.0,47.0,4.1,77.5,Group B,Yes,Bachelor,Yes
+1701,Student_701,16,Male,9th,National Grammar,45.0,91.0,99.0,41.0,90.0,2.7,93.5,Group A,No,Bachelor,No
+1702,Student_702,16,Female,9th,Greenwood High,83.0,42.0,74.0,69.0,99.0,2.4,78.9,Group A,No,Bachelor,Yes
+1703,Student_703,15,Female,12th,Greenwood High,83.0,54.0,44.0,95.0,55.0,,66.5,Group B,Yes,High School,Yes
+1704,Student_704,17,Female,12th,National Grammar,60.0,87.0,66.0,45.0,68.0,2.6,,Group A,Yes,,Yes
+1705,Student_705,14,Male,10th,Sunrise Academy,67.0,46.0,83.0,63.0,66.0,4.7,79.4,Group B,No,High School,Yes
+1706,Student_706,17,Male,12th,Sunrise Academy,79.0,83.0,51.0,73.0,88.0,0.5,65.5,Group B,Yes,Bachelor,Yes
+1707,Student_707,18,Male,10th,City Public School,,51.0,59.0,35.0,89.0,2.6,80.8,Group A,Yes,Master,Yes
+1708,Student_708,16,Female,9th,National Grammar,93.0,98.0,84.0,93.0,70.0,7.1,,None,Yes,Bachelor,Yes
+1709,Student_709,14,Male,10th,National Grammar,40.0,76.0,59.0,51.0,57.0,5.0,56.3,Group A,No,Bachelor,Yes
+1710,Student_710,14,Male,12th,Sunrise Academy,75.0,63.0,48.0,47.0,45.0,5.1,83.4,Group C,No,High School,Yes
+1711,Student_711,18,Male,9th,Sunrise Academy,60.0,53.0,78.0,41.0,68.0,3.5,70.7,Group A,Yes,Bachelor,No
+1712,Student_712,18,Male,11th,National Grammar,99.0,45.0,43.0,81.0,54.0,5.6,68.2,Group B,Yes,Bachelor,Yes
+1713,Student_713,15,Male,10th,Greenwood High,,84.0,90.0,80.0,79.0,1.9,72.7,Group C,Yes,Bachelor,No
+1714,Student_714,16,Male,9th,National Grammar,74.0,92.0,93.0,77.0,68.0,6.6,70.4,Group B,No,High School,Yes
+1715,Student_715,16,Female,10th,National Grammar,52.0,68.0,58.0,48.0,72.0,1.4,92.5,None,Yes,Master,Yes
+1716,Student_716,17,Female,9th,Sunrise Academy,96.0,54.0,77.0,35.0,80.0,5.4,67.4,None,No,Bachelor,Yes
+1717,Student_717,15,Male,9th,Sunrise Academy,88.0,84.0,66.0,56.0,60.0,3.1,88.0,Group C,Yes,Master,Yes
+1718,Student_718,15,Male,10th,Greenwood High,93.0,44.0,84.0,82.0,84.0,6.1,59.2,None,No,Bachelor,Yes
+1719,Student_719,15,Female,11th,Greenwood High,93.0,66.0,82.0,77.0,60.0,4.6,97.8,None,Yes,Master,Yes
+1720,Student_720,15,Female,9th,City Public School,49.0,86.0,52.0,36.0,61.0,3.9,83.0,Group A,Yes,High School,No
+1721,Student_721,16,Male,9th,National Grammar,92.0,49.0,52.0,88.0,95.0,1.8,86.8,Group A,Yes,None,No
+1722,Student_722,16,Male,9th,Sunrise Academy,83.0,37.0,99.0,98.0,98.0,,68.4,None,Yes,High School,Yes
+1723,Student_723,15,Male,11th,Greenwood High,86.0,71.0,96.0,40.0,59.0,7.8,73.5,None,No,High School,No
+1724,Student_724,17,Male,11th,City Public School,92.0,74.0,61.0,44.0,60.0,6.7,65.1,Group A,Yes,Bachelor,Yes
+1725,Student_725,14,Female,12th,City Public School,49.0,74.0,67.0,93.0,59.0,1.0,97.0,None,Yes,Bachelor,Yes
+1726,Student_726,14,Male,10th,Sunrise Academy,85.0,90.0,91.0,32.0,78.0,3.3,77.0,None,Yes,Bachelor,No
+1727,Student_727,17,Male,11th,Sunrise Academy,52.0,57.0,86.0,98.0,55.0,7.4,83.4,Group B,No,High School,Yes
+1728,Student_728,15,Male,10th,City Public School,,45.0,92.0,52.0,45.0,4.3,88.0,None,Yes,Master,Yes
+1729,Student_729,16,Male,12th,Greenwood High,77.0,98.0,84.0,82.0,59.0,5.5,71.7,Group C,Yes,None,Yes
+1730,Student_730,14,Female,10th,City Public School,63.0,42.0,61.0,66.0,70.0,7.3,87.4,Group B,No,High School,Yes
+1731,Student_731,18,Female,11th,National Grammar,41.0,90.0,82.0,38.0,95.0,7.1,85.4,Group C,Yes,Bachelor,Yes
+1732,Student_732,18,Female,10th,National Grammar,61.0,94.0,58.0,44.0,48.0,4.3,86.8,None,Yes,Bachelor,Yes
+1733,Student_733,17,Male,11th,Sunrise Academy,56.0,44.0,47.0,32.0,87.0,3.8,77.0,Group A,Yes,High School,Yes
+1734,Student_734,15,Male,10th,Greenwood High,75.0,73.0,91.0,99.0,49.0,3.0,72.2,Group B,Yes,None,Yes
+1735,Student_735,14,Female,11th,Greenwood High,53.0,62.0,47.0,46.0,79.0,5.9,65.0,Group A,No,Bachelor,No
+1736,Student_736,15,Male,11th,National Grammar,49.0,83.0,81.0,55.0,57.0,2.7,92.1,Group B,No,None,Yes
+1737,Student_737,14,Male,10th,City Public School,74.0,70.0,65.0,50.0,54.0,2.4,82.4,Group A,Yes,High School,No
+1738,Student_738,17,Female,12th,Sunrise Academy,64.0,47.0,87.0,50.0,55.0,,75.0,Group B,Yes,Bachelor,No
+1739,Student_739,17,Female,9th,City Public School,42.0,70.0,90.0,40.0,62.0,1.8,97.5,Group B,Yes,High School,No
+1740,Student_740,18,Female,12th,City Public School,86.0,60.0,65.0,67.0,78.0,5.7,57.2,Group C,Yes,High School,No
+1741,Student_741,15,Female,10th,City Public School,77.0,38.0,62.0,64.0,83.0,5.1,93.3,Group A,Yes,Bachelor,Yes
+1742,Student_742,18,Male,12th,Greenwood High,56.0,98.0,82.0,43.0,85.0,4.1,99.9,Group C,No,Master,Yes
+1743,Student_743,15,Male,11th,National Grammar,51.0,72.0,52.0,43.0,86.0,3.4,94.9,Group C,Yes,Master,Yes
+1744,Student_744,18,Female,9th,Greenwood High,93.0,56.0,67.0,39.0,94.0,7.3,91.5,Group A,Yes,High School,No
+1745,Student_745,16,Male,10th,National Grammar,91.0,36.0,48.0,41.0,67.0,0.7,71.8,Group B,No,High School,Yes
+1746,Student_746,16,Female,10th,Sunrise Academy,63.0,65.0,59.0,67.0,51.0,6.3,65.4,Group C,No,High School,Yes
+1747,Student_747,16,Female,10th,Sunrise Academy,,45.0,95.0,63.0,83.0,7.3,88.1,Group A,Yes,High School,Yes
+1748,Student_748,16,Male,9th,City Public School,82.0,80.0,58.0,70.0,47.0,3.8,68.7,Group B,No,Bachelor,No
+1749,Student_749,14,Female,11th,National Grammar,64.0,96.0,87.0,39.0,56.0,4.6,62.9,Group C,Yes,Bachelor,Yes
+1750,Student_750,16,Male,10th,National Grammar,,98.0,78.0,46.0,51.0,7.6,90.4,Group C,Yes,Bachelor,Yes
+1751,Student_751,17,Male,12th,National Grammar,97.0,44.0,90.0,46.0,93.0,2.1,69.1,Group C,Yes,High School,Yes
+1752,Student_752,17,Male,10th,City Public School,99.0,74.0,51.0,96.0,70.0,4.4,96.1,Group B,Yes,High School,No
+1753,Student_753,14,Male,10th,City Public School,65.0,58.0,54.0,91.0,77.0,4.1,92.8,Group C,Yes,Bachelor,Yes
+1754,Student_754,16,Female,10th,Sunrise Academy,77.0,78.0,70.0,30.0,81.0,,93.1,Group B,No,High School,Yes
+1755,Student_755,16,Male,10th,Greenwood High,40.0,,94.0,41.0,92.0,6.6,89.7,None,No,Bachelor,No
+1756,Student_756,16,Female,11th,National Grammar,59.0,96.0,53.0,33.0,59.0,7.2,94.6,Group C,Yes,Bachelor,Yes
+1757,Student_757,18,Female,12th,National Grammar,94.0,51.0,50.0,71.0,46.0,6.4,91.3,None,Yes,Bachelor,No
+1758,Student_758,15,Female,11th,Greenwood High,67.0,,65.0,42.0,85.0,2.0,82.1,Group A,Yes,Bachelor,Yes
+1759,Student_759,18,Female,12th,National Grammar,55.0,,81.0,33.0,51.0,1.2,68.3,Group C,Yes,Bachelor,Yes
+1760,Student_760,15,Male,10th,City Public School,86.0,89.0,66.0,98.0,76.0,5.0,95.0,Group A,No,High School,No
+1761,Student_761,16,Male,9th,City Public School,56.0,87.0,50.0,48.0,48.0,0.9,92.8,Group A,Yes,None,No
+1762,Student_762,16,Female,11th,National Grammar,79.0,90.0,77.0,31.0,64.0,5.5,76.3,Group A,Yes,Bachelor,Yes
+1763,Student_763,18,Female,9th,City Public School,67.0,43.0,73.0,41.0,94.0,,56.8,None,Yes,High School,Yes
+1764,Student_764,18,Male,11th,City Public School,97.0,56.0,82.0,35.0,97.0,5.5,83.7,Group B,Yes,Bachelor,No
+1765,Student_765,15,Female,10th,National Grammar,51.0,47.0,58.0,37.0,80.0,4.9,57.3,None,Yes,Bachelor,Yes
+1766,Student_766,17,Male,11th,Sunrise Academy,66.0,82.0,45.0,80.0,76.0,3.7,96.7,None,Yes,Master,No
+1767,Student_767,15,Female,10th,Greenwood High,93.0,52.0,85.0,40.0,72.0,2.0,98.3,Group A,Yes,Master,No
+1768,Student_768,18,Male,11th,City Public School,92.0,74.0,91.0,92.0,57.0,2.8,63.5,Group C,Yes,None,Yes
+1769,Student_769,18,Female,10th,Sunrise Academy,81.0,51.0,77.0,86.0,45.0,4.4,85.4,Group B,Yes,Master,No
+1770,Student_770,14,Female,10th,City Public School,98.0,49.0,88.0,41.0,79.0,5.4,59.2,Group A,Yes,,Yes
+1771,Student_771,18,Male,12th,City Public School,86.0,49.0,81.0,31.0,92.0,6.3,87.8,Group B,No,Bachelor,No
+1772,Student_772,14,Female,10th,Greenwood High,69.0,97.0,67.0,37.0,74.0,6.3,70.6,None,No,None,Yes
+1773,Student_773,17,Female,12th,City Public School,80.0,73.0,40.0,40.0,98.0,7.8,85.6,Group B,No,Master,No
+1774,Student_774,15,Male,10th,Greenwood High,73.0,47.0,74.0,82.0,80.0,2.6,71.8,Group B,Yes,High School,No
+1775,Student_775,15,Female,9th,Greenwood High,76.0,66.0,79.0,39.0,99.0,1.0,61.6,Group C,Yes,Bachelor,No
+1776,Student_776,14,Male,10th,Greenwood High,45.0,43.0,47.0,37.0,69.0,3.1,73.3,Group A,Yes,None,No
+1777,Student_777,15,Male,9th,Sunrise Academy,46.0,74.0,98.0,65.0,60.0,6.1,60.1,Group B,No,Bachelor,Yes
+1778,Student_778,18,Female,9th,National Grammar,71.0,54.0,91.0,43.0,63.0,3.8,81.0,Group B,Yes,High School,Yes
+1779,Student_779,16,Female,10th,Sunrise Academy,71.0,97.0,93.0,83.0,45.0,6.6,56.8,None,Yes,High School,No
+1780,Student_780,14,Female,9th,National Grammar,92.0,78.0,86.0,50.0,49.0,4.6,78.7,None,Yes,High School,No
+1781,Student_781,15,Female,12th,National Grammar,64.0,,95.0,79.0,95.0,7.5,94.9,Group B,Yes,High School,No
+1782,Student_782,14,Female,11th,Greenwood High,72.0,94.0,46.0,68.0,66.0,7.6,92.7,Group A,Yes,High School,No
+1783,Student_783,14,Female,10th,City Public School,94.0,82.0,50.0,49.0,68.0,1.0,94.7,Group B,Yes,Bachelor,Yes
+1784,Student_784,16,Female,9th,Greenwood High,97.0,52.0,78.0,36.0,87.0,3.9,96.5,Group B,No,Bachelor,Yes
+1785,Student_785,18,Male,10th,City Public School,,50.0,43.0,38.0,89.0,5.1,59.7,Group C,Yes,Bachelor,Yes
+1786,Student_786,14,Female,12th,National Grammar,91.0,89.0,64.0,30.0,96.0,2.4,60.8,Group A,No,Bachelor,No
+1787,Student_787,15,Male,10th,Greenwood High,96.0,73.0,51.0,55.0,81.0,3.6,80.1,Group C,Yes,None,Yes
+1788,Student_788,17,Female,10th,City Public School,51.0,93.0,65.0,67.0,97.0,5.6,95.2,Group A,No,High School,No
+1789,Student_789,14,Female,9th,Sunrise Academy,55.0,96.0,77.0,67.0,80.0,2.2,98.8,Group A,Yes,High School,Yes
+1790,Student_790,14,Male,12th,City Public School,55.0,47.0,85.0,90.0,80.0,5.0,57.1,Group A,Yes,Master,Yes
+1791,Student_791,16,Female,11th,Greenwood High,82.0,40.0,51.0,73.0,48.0,5.7,71.0,Group C,Yes,Master,Yes
+1792,Student_792,18,Female,11th,Sunrise Academy,92.0,94.0,82.0,73.0,80.0,1.2,64.6,Group C,Yes,,Yes
+1793,Student_793,17,Male,9th,City Public School,75.0,48.0,90.0,91.0,96.0,4.2,89.0,Group C,Yes,None,No
+1794,Student_794,15,Female,10th,City Public School,52.0,88.0,92.0,35.0,97.0,2.5,83.8,None,Yes,Master,Yes
+1795,Student_795,17,Female,9th,City Public School,46.0,38.0,76.0,46.0,62.0,5.9,,Group C,Yes,Master,Yes
+1796,Student_796,15,Female,9th,City Public School,75.0,73.0,85.0,80.0,94.0,1.9,76.8,None,Yes,Master,Yes
+1797,Student_797,18,Male,9th,City Public School,86.0,59.0,92.0,67.0,60.0,7.2,85.8,None,No,Bachelor,No
+1798,Student_798,15,Female,10th,Sunrise Academy,90.0,66.0,63.0,53.0,85.0,3.7,90.1,None,No,Bachelor,No
+1799,Student_799,16,Female,12th,National Grammar,48.0,93.0,55.0,80.0,62.0,,55.9,Group B,Yes,High School,Yes
+1800,Student_800,16,Female,9th,Sunrise Academy,71.0,97.0,96.0,39.0,66.0,3.8,95.1,Group B,Yes,Bachelor,No
+1801,Student_801,16,Female,10th,Sunrise Academy,50.0,72.0,52.0,50.0,46.0,3.6,80.6,Group B,No,Bachelor,Yes
+1802,Student_802,16,Male,12th,Sunrise Academy,47.0,87.0,64.0,99.0,65.0,3.7,91.5,None,Yes,Bachelor,Yes
+1803,Student_803,17,Male,9th,National Grammar,72.0,62.0,93.0,86.0,80.0,4.9,91.4,None,Yes,Bachelor,No
+1804,Student_804,18,Female,11th,Greenwood High,62.0,37.0,93.0,68.0,88.0,4.4,63.5,Group A,Yes,High School,Yes
+1805,Student_805,15,Female,12th,National Grammar,64.0,56.0,96.0,62.0,83.0,1.6,60.0,None,Yes,High School,No
+1806,Student_806,15,Male,9th,Sunrise Academy,95.0,72.0,91.0,88.0,91.0,1.0,87.5,Group B,Yes,High School,Yes
+1807,Student_807,16,Male,12th,City Public School,47.0,96.0,93.0,47.0,83.0,6.0,62.0,None,Yes,High School,No
+1808,Student_808,16,Female,12th,City Public School,84.0,91.0,43.0,85.0,73.0,4.7,93.2,None,Yes,Bachelor,Yes
+1809,Student_809,14,Male,12th,Sunrise Academy,61.0,40.0,50.0,86.0,98.0,3.2,87.7,Group A,Yes,Bachelor,Yes
+1810,Student_810,18,Female,12th,City Public School,98.0,66.0,71.0,77.0,70.0,6.6,92.9,None,No,Bachelor,No
+1811,Student_811,17,Male,12th,Sunrise Academy,43.0,44.0,88.0,71.0,65.0,3.4,68.5,Group C,Yes,High School,Yes
+1812,Student_812,15,Male,12th,City Public School,79.0,37.0,46.0,56.0,61.0,6.5,69.2,Group A,Yes,,Yes
+1813,Student_813,14,Male,9th,National Grammar,42.0,93.0,85.0,81.0,60.0,2.8,85.2,None,Yes,None,Yes
+1814,Student_814,14,Male,11th,Greenwood High,68.0,83.0,97.0,71.0,75.0,1.0,56.4,None,Yes,Bachelor,Yes
+1815,Student_815,15,Female,10th,Greenwood High,,93.0,50.0,61.0,95.0,,87.7,Group A,Yes,High School,Yes
+1816,Student_816,17,Male,12th,National Grammar,68.0,65.0,67.0,55.0,53.0,3.5,92.6,None,Yes,High School,Yes
+1817,Student_817,14,Male,10th,National Grammar,73.0,96.0,93.0,54.0,75.0,6.4,73.7,Group B,Yes,Master,No
+1818,Student_818,14,Female,9th,Sunrise Academy,73.0,86.0,80.0,52.0,58.0,2.6,89.4,Group C,Yes,Bachelor,Yes
+1819,Student_819,18,Male,12th,Sunrise Academy,67.0,75.0,62.0,86.0,93.0,5.3,62.9,Group C,Yes,None,No
+1820,Student_820,17,Male,11th,Sunrise Academy,52.0,65.0,84.0,81.0,81.0,7.0,69.5,Group B,Yes,High School,Yes
+1821,Student_821,14,Female,10th,City Public School,54.0,56.0,62.0,60.0,46.0,0.8,98.8,None,No,Bachelor,Yes
+1822,Student_822,17,Male,12th,Sunrise Academy,99.0,38.0,89.0,93.0,96.0,6.7,99.4,None,Yes,High School,Yes
+1823,Student_823,15,Female,9th,National Grammar,62.0,47.0,67.0,62.0,92.0,4.8,78.1,Group C,Yes,Master,Yes
+1824,Student_824,16,Female,11th,Greenwood High,83.0,79.0,82.0,31.0,90.0,5.1,97.0,None,Yes,Bachelor,Yes
+1825,Student_825,14,Female,10th,City Public School,65.0,76.0,86.0,47.0,58.0,4.4,78.5,Group C,Yes,Bachelor,Yes
+1826,Student_826,18,Female,10th,Sunrise Academy,43.0,83.0,96.0,76.0,77.0,7.1,68.1,Group C,No,Bachelor,Yes
+1827,Student_827,15,Male,12th,City Public School,65.0,54.0,65.0,62.0,79.0,,67.0,Group B,Yes,High School,Yes
+1828,Student_828,17,Female,11th,City Public School,79.0,88.0,64.0,64.0,83.0,2.5,96.8,Group C,Yes,High School,Yes
+1829,Student_829,15,Male,11th,Sunrise Academy,48.0,70.0,93.0,80.0,91.0,7.1,62.8,None,Yes,High School,Yes
+1830,Student_830,14,Male,11th,City Public School,94.0,35.0,68.0,47.0,95.0,6.1,81.1,None,Yes,,No
+1831,Student_831,17,Male,11th,Greenwood High,44.0,49.0,58.0,59.0,64.0,0.6,80.0,Group A,Yes,High School,Yes
+1832,Student_832,16,Male,9th,National Grammar,95.0,51.0,72.0,73.0,46.0,4.4,88.3,None,Yes,Master,Yes
+1833,Student_833,15,Male,11th,National Grammar,71.0,58.0,75.0,82.0,95.0,4.5,77.5,Group A,Yes,High School,Yes
+1834,Student_834,14,Male,10th,Greenwood High,59.0,92.0,53.0,39.0,85.0,3.5,67.3,Group C,No,High School,Yes
+1835,Student_835,18,Male,10th,City Public School,89.0,57.0,53.0,81.0,63.0,2.7,62.6,None,Yes,None,Yes
+1836,Student_836,17,Male,9th,Sunrise Academy,50.0,80.0,74.0,78.0,81.0,5.6,82.9,Group B,Yes,None,No
+1837,Student_837,15,Male,10th,City Public School,54.0,42.0,69.0,40.0,62.0,2.1,87.4,Group B,No,High School,No
+1838,Student_838,15,Male,10th,Greenwood High,71.0,93.0,67.0,95.0,60.0,,,Group B,No,High School,No
+1839,Student_839,16,Female,11th,City Public School,67.0,93.0,56.0,87.0,48.0,6.5,88.2,Group C,Yes,,No
+1840,Student_840,16,Female,10th,National Grammar,61.0,47.0,42.0,65.0,56.0,3.6,61.4,Group C,Yes,Bachelor,Yes
+1841,Student_841,18,Female,9th,City Public School,80.0,73.0,55.0,62.0,73.0,2.6,94.7,Group A,No,Bachelor,Yes
+1842,Student_842,18,Male,11th,Greenwood High,56.0,62.0,85.0,76.0,51.0,2.6,81.2,Group B,Yes,None,No
+1843,Student_843,14,Female,12th,National Grammar,98.0,95.0,69.0,42.0,58.0,4.1,60.7,Group A,Yes,Bachelor,Yes
+1844,Student_844,14,Female,11th,City Public School,65.0,50.0,91.0,69.0,99.0,5.9,75.8,Group A,No,Bachelor,Yes
+1845,Student_845,18,Female,9th,City Public School,83.0,36.0,68.0,97.0,56.0,3.2,93.0,None,Yes,Master,No
+1846,Student_846,18,Male,11th,National Grammar,46.0,51.0,84.0,71.0,79.0,5.1,95.4,None,Yes,Bachelor,No
+1847,Student_847,17,Male,11th,Sunrise Academy,81.0,64.0,54.0,48.0,49.0,3.4,66.9,Group B,Yes,High School,Yes
+1848,Student_848,16,Male,9th,National Grammar,96.0,47.0,85.0,48.0,61.0,2.8,87.0,Group C,Yes,Bachelor,Yes
+1849,Student_849,14,Male,11th,Sunrise Academy,65.0,47.0,95.0,87.0,86.0,0.7,,None,No,Bachelor,No
+1850,Student_850,16,Female,9th,Greenwood High,64.0,77.0,64.0,52.0,76.0,0.5,,Group C,Yes,High School,No
+1851,Student_851,16,Female,9th,Greenwood High,49.0,55.0,90.0,83.0,54.0,2.2,80.2,Group A,No,Master,No
+1852,Student_852,18,Female,12th,National Grammar,98.0,89.0,77.0,94.0,87.0,3.5,86.3,Group A,Yes,High School,No
+1853,Student_853,17,Female,10th,National Grammar,84.0,74.0,81.0,41.0,61.0,6.9,90.8,Group A,Yes,Master,Yes
+1854,Student_854,15,Male,10th,Greenwood High,58.0,49.0,98.0,53.0,49.0,6.5,70.3,Group A,Yes,Bachelor,Yes
+1855,Student_855,17,Male,11th,Sunrise Academy,50.0,86.0,86.0,63.0,89.0,2.5,55.3,Group B,Yes,Bachelor,Yes
+1856,Student_856,17,Male,11th,Greenwood High,52.0,87.0,92.0,82.0,86.0,2.3,76.6,Group A,No,Bachelor,Yes
+1857,Student_857,16,Female,12th,National Grammar,92.0,86.0,93.0,37.0,53.0,2.2,55.7,None,Yes,Bachelor,No
+1858,Student_858,17,Male,12th,Greenwood High,47.0,64.0,91.0,47.0,93.0,,59.1,Group A,Yes,Bachelor,No
+1859,Student_859,14,Male,12th,National Grammar,79.0,67.0,97.0,86.0,77.0,4.2,69.7,Group C,Yes,Master,Yes
+1860,Student_860,16,Female,9th,National Grammar,43.0,91.0,77.0,34.0,80.0,,74.7,None,No,Bachelor,Yes
+1861,Student_861,14,Female,12th,Greenwood High,86.0,86.0,62.0,55.0,80.0,2.1,67.6,Group C,Yes,Master,Yes
+1862,Student_862,15,Male,12th,Sunrise Academy,70.0,43.0,64.0,59.0,62.0,1.5,81.2,Group C,Yes,Master,No
+1863,Student_863,16,Male,11th,City Public School,67.0,88.0,81.0,83.0,53.0,0.6,57.5,Group B,Yes,,Yes
+1864,Student_864,15,Male,12th,Greenwood High,50.0,35.0,46.0,42.0,73.0,1.7,61.5,Group B,Yes,Bachelor,Yes
+1865,Student_865,16,Male,9th,City Public School,,78.0,61.0,58.0,94.0,5.8,86.3,Group C,Yes,Bachelor,Yes
+1866,Student_866,18,Male,9th,Greenwood High,40.0,43.0,56.0,32.0,58.0,2.3,61.4,Group C,Yes,High School,Yes
+1867,Student_867,17,Male,11th,City Public School,88.0,66.0,57.0,87.0,69.0,4.0,83.8,Group A,No,Bachelor,No
+1868,Student_868,18,Female,12th,Sunrise Academy,86.0,49.0,88.0,31.0,59.0,4.9,57.5,None,Yes,High School,Yes
+1869,Student_869,15,Female,12th,Sunrise Academy,91.0,46.0,80.0,57.0,50.0,7.2,73.3,Group A,Yes,High School,Yes
+1870,Student_870,17,Female,9th,Greenwood High,77.0,91.0,49.0,31.0,86.0,7.2,63.0,Group B,Yes,High School,Yes
+1871,Student_871,16,Male,12th,National Grammar,63.0,42.0,49.0,36.0,73.0,6.1,59.9,Group B,Yes,Master,Yes
+1872,Student_872,17,Female,12th,City Public School,93.0,,96.0,55.0,59.0,0.8,80.5,Group A,No,Master,No
+1873,Student_873,14,Male,12th,National Grammar,99.0,96.0,46.0,45.0,73.0,4.8,96.8,None,Yes,Bachelor,Yes
+1874,Student_874,17,Male,10th,National Grammar,96.0,46.0,87.0,52.0,48.0,6.4,57.5,Group C,Yes,Bachelor,Yes
+1875,Student_875,14,Female,11th,National Grammar,86.0,99.0,89.0,69.0,62.0,0.6,74.0,Group A,Yes,Bachelor,No
+1876,Student_876,17,Male,10th,Sunrise Academy,70.0,76.0,77.0,89.0,94.0,4.6,,Group B,Yes,Bachelor,Yes
+1877,Student_877,14,Male,11th,Greenwood High,80.0,96.0,66.0,61.0,93.0,6.9,75.8,None,Yes,High School,No
+1878,Student_878,15,Female,9th,Greenwood High,85.0,45.0,91.0,44.0,88.0,4.1,91.3,Group B,Yes,High School,Yes
+1879,Student_879,18,Female,12th,Sunrise Academy,89.0,77.0,72.0,42.0,83.0,0.5,63.1,None,Yes,High School,Yes
+1880,Student_880,16,Female,11th,Sunrise Academy,65.0,51.0,40.0,34.0,60.0,0.6,98.2,None,No,Bachelor,No
+1881,Student_881,17,Male,10th,Greenwood High,88.0,66.0,83.0,81.0,55.0,3.6,72.3,None,Yes,Bachelor,No
+1882,Student_882,18,Female,12th,National Grammar,89.0,74.0,92.0,70.0,58.0,1.7,70.4,Group A,Yes,Bachelor,Yes
+1883,Student_883,16,Female,9th,City Public School,,57.0,99.0,82.0,47.0,5.5,94.4,Group A,No,Master,Yes
+1884,Student_884,16,Male,11th,City Public School,59.0,90.0,73.0,79.0,95.0,5.8,80.4,Group A,Yes,None,Yes
+1885,Student_885,14,Female,11th,City Public School,91.0,40.0,43.0,44.0,94.0,1.8,78.2,None,Yes,High School,Yes
+1886,Student_886,15,Female,11th,National Grammar,80.0,84.0,56.0,36.0,86.0,7.2,87.7,None,Yes,High School,Yes
+1887,Student_887,15,Female,12th,Greenwood High,50.0,71.0,43.0,69.0,82.0,3.8,81.1,Group B,Yes,None,No
+1888,Student_888,18,Male,10th,Sunrise Academy,,98.0,82.0,57.0,89.0,1.6,62.3,Group C,Yes,High School,Yes
+1889,Student_889,15,Male,10th,Greenwood High,93.0,88.0,93.0,61.0,86.0,6.2,85.3,Group A,Yes,High School,Yes
+1890,Student_890,17,Male,11th,National Grammar,72.0,,65.0,44.0,62.0,6.4,61.0,None,No,Bachelor,Yes
+1891,Student_891,15,Male,9th,Sunrise Academy,89.0,45.0,43.0,99.0,64.0,5.3,91.3,Group B,Yes,High School,Yes
+1892,Student_892,18,Female,9th,National Grammar,77.0,83.0,40.0,94.0,92.0,6.9,99.5,Group B,Yes,Bachelor,No
+1893,Student_893,15,Male,10th,City Public School,66.0,55.0,46.0,33.0,69.0,6.0,72.0,Group B,Yes,Bachelor,Yes
+1894,Student_894,17,Male,9th,City Public School,73.0,97.0,69.0,40.0,82.0,7.1,75.0,Group A,Yes,High School,Yes
+1895,Student_895,14,Female,10th,National Grammar,54.0,62.0,89.0,55.0,57.0,3.8,57.1,Group A,Yes,Bachelor,No
+1896,Student_896,18,Female,11th,Sunrise Academy,71.0,51.0,48.0,90.0,48.0,6.1,55.6,Group C,Yes,None,Yes
+1897,Student_897,14,Female,10th,Sunrise Academy,,40.0,74.0,66.0,99.0,8.0,96.5,Group B,Yes,Bachelor,Yes
+1898,Student_898,14,Male,10th,Greenwood High,60.0,53.0,47.0,52.0,58.0,5.9,60.8,Group A,No,Master,Yes
+1899,Student_899,14,Male,11th,City Public School,85.0,90.0,63.0,69.0,77.0,1.4,75.1,Group B,Yes,High School,No
+1900,Student_900,16,Male,9th,Greenwood High,44.0,62.0,58.0,52.0,72.0,4.4,91.7,None,Yes,Master,No
+1901,Student_901,16,Female,10th,Greenwood High,45.0,72.0,75.0,45.0,96.0,4.9,95.0,Group B,No,Bachelor,Yes
+1902,Student_902,14,Female,10th,National Grammar,,71.0,89.0,90.0,81.0,1.8,78.4,Group C,Yes,Master,Yes
+1903,Student_903,18,Male,11th,National Grammar,61.0,83.0,91.0,97.0,52.0,7.7,80.4,Group A,No,Bachelor,No
+1904,Student_904,17,Female,9th,Greenwood High,57.0,77.0,98.0,60.0,88.0,1.8,85.1,None,No,,Yes
+1905,Student_905,17,Female,10th,City Public School,53.0,,82.0,82.0,78.0,1.8,98.3,Group A,Yes,Master,Yes
+1906,Student_906,15,Female,11th,National Grammar,49.0,92.0,66.0,54.0,88.0,7.4,82.1,None,No,High School,No
+1907,Student_907,18,Male,10th,Greenwood High,85.0,47.0,71.0,73.0,49.0,4.0,80.2,Group B,Yes,High School,Yes
+1908,Student_908,16,Female,12th,Greenwood High,52.0,,53.0,41.0,98.0,1.0,55.7,Group B,Yes,High School,Yes
+1909,Student_909,14,Female,11th,Greenwood High,70.0,92.0,96.0,38.0,49.0,5.0,58.6,Group C,No,High School,No
+1910,Student_910,15,Male,9th,Greenwood High,69.0,66.0,57.0,41.0,75.0,5.0,81.0,Group C,Yes,Bachelor,Yes
+1911,Student_911,17,Male,9th,Greenwood High,42.0,94.0,67.0,98.0,89.0,1.0,97.1,None,Yes,Bachelor,Yes
+1912,Student_912,16,Female,9th,Greenwood High,69.0,92.0,99.0,83.0,53.0,7.8,94.0,Group C,Yes,Master,Yes
+1913,Student_913,16,Female,9th,National Grammar,45.0,90.0,68.0,83.0,86.0,4.6,99.2,Group C,No,None,Yes
+1914,Student_914,14,Male,10th,City Public School,68.0,62.0,55.0,57.0,76.0,4.7,78.8,Group C,No,Master,Yes
+1915,Student_915,17,Male,10th,Greenwood High,47.0,35.0,74.0,85.0,77.0,4.4,90.5,Group C,Yes,Master,Yes
+1916,Student_916,18,Female,9th,Sunrise Academy,83.0,76.0,86.0,98.0,47.0,5.1,92.8,Group B,No,None,No
+1917,Student_917,16,Female,9th,National Grammar,84.0,82.0,98.0,87.0,74.0,2.5,84.2,Group C,Yes,High School,No
+1918,Student_918,14,Female,9th,National Grammar,82.0,74.0,98.0,71.0,94.0,,70.2,Group B,Yes,Bachelor,Yes
+1919,Student_919,18,Female,10th,Greenwood High,83.0,97.0,70.0,67.0,56.0,4.3,76.1,Group B,Yes,Bachelor,No
+1920,Student_920,17,Male,9th,National Grammar,72.0,38.0,43.0,97.0,73.0,6.6,93.6,Group A,No,Bachelor,No
+1921,Student_921,16,Female,9th,Greenwood High,56.0,72.0,76.0,82.0,47.0,0.9,68.4,Group B,Yes,Bachelor,No
+1922,Student_922,18,Female,12th,City Public School,,61.0,56.0,62.0,70.0,5.0,96.6,Group B,Yes,Bachelor,Yes
+1923,Student_923,18,Male,12th,City Public School,50.0,43.0,78.0,85.0,74.0,6.6,65.3,Group C,No,None,No
+1924,Student_924,18,Female,9th,National Grammar,52.0,50.0,87.0,80.0,53.0,1.7,88.7,Group B,No,Bachelor,Yes
+1925,Student_925,16,Male,11th,National Grammar,89.0,90.0,85.0,72.0,70.0,0.6,83.4,None,Yes,None,Yes
+1926,Student_926,16,Female,9th,Sunrise Academy,50.0,65.0,65.0,44.0,46.0,2.8,88.7,Group C,Yes,Bachelor,Yes
+1927,Student_927,15,Female,12th,National Grammar,70.0,48.0,87.0,67.0,47.0,4.9,74.7,Group C,No,Bachelor,No
+1928,Student_928,17,Male,11th,Sunrise Academy,67.0,59.0,78.0,44.0,90.0,1.5,97.0,Group C,No,Bachelor,Yes
+1929,Student_929,14,Male,11th,City Public School,83.0,68.0,80.0,34.0,48.0,3.7,83.5,Group A,Yes,Master,Yes
+1930,Student_930,18,Female,9th,City Public School,45.0,58.0,43.0,83.0,69.0,,68.0,Group C,No,Bachelor,No
+1931,Student_931,15,Female,12th,Greenwood High,80.0,60.0,69.0,80.0,95.0,5.0,83.7,Group B,No,Bachelor,No
+1932,Student_932,14,Female,12th,City Public School,55.0,54.0,69.0,39.0,57.0,2.6,67.9,None,No,Bachelor,No
+1933,Student_933,15,Male,11th,Sunrise Academy,43.0,98.0,61.0,41.0,83.0,3.5,68.2,Group C,No,Master,Yes
+1934,Student_934,16,Female,9th,National Grammar,74.0,44.0,50.0,33.0,88.0,6.3,73.0,Group C,Yes,Bachelor,Yes
+1935,Student_935,18,Male,10th,Greenwood High,99.0,,41.0,47.0,79.0,7.6,93.4,None,Yes,High School,No
+1936,Student_936,14,Male,10th,Sunrise Academy,87.0,39.0,83.0,65.0,99.0,7.0,77.5,Group C,Yes,Master,Yes
+1937,Student_937,14,Female,12th,National Grammar,95.0,92.0,51.0,54.0,67.0,4.7,85.6,Group A,Yes,Bachelor,No
+1938,Student_938,14,Male,10th,Greenwood High,98.0,61.0,69.0,65.0,53.0,3.6,72.6,Group B,No,None,Yes
+1939,Student_939,14,Female,12th,City Public School,65.0,49.0,75.0,96.0,46.0,,66.9,None,No,Bachelor,No
+1940,Student_940,14,Female,12th,Sunrise Academy,96.0,69.0,57.0,38.0,98.0,1.4,98.0,None,Yes,Master,Yes
+1941,Student_941,15,Female,12th,National Grammar,51.0,87.0,65.0,90.0,85.0,1.3,82.2,Group A,Yes,Bachelor,Yes
+1942,Student_942,18,Female,10th,Greenwood High,50.0,78.0,92.0,82.0,88.0,5.7,97.0,Group B,Yes,High School,No
+1943,Student_943,16,Female,12th,Greenwood High,76.0,60.0,46.0,47.0,75.0,2.4,64.2,Group A,Yes,Bachelor,Yes
+1944,Student_944,16,Male,11th,City Public School,64.0,81.0,40.0,72.0,88.0,2.4,61.6,Group B,Yes,Bachelor,Yes
+1945,Student_945,16,Male,9th,National Grammar,57.0,68.0,97.0,64.0,91.0,8.0,93.5,Group A,Yes,Bachelor,No
+1946,Student_946,16,Female,9th,City Public School,58.0,84.0,65.0,92.0,46.0,1.9,85.6,Group C,Yes,High School,Yes
+1947,Student_947,15,Female,12th,City Public School,62.0,46.0,62.0,33.0,76.0,1.6,63.4,Group A,Yes,High School,Yes
+1948,Student_948,17,Male,9th,National Grammar,94.0,38.0,65.0,70.0,62.0,,67.1,None,Yes,Bachelor,Yes
+1949,Student_949,18,Male,10th,National Grammar,77.0,82.0,84.0,74.0,57.0,4.8,91.0,None,No,Bachelor,Yes
+1950,Student_950,14,Male,10th,National Grammar,93.0,89.0,45.0,79.0,90.0,5.2,75.4,None,Yes,High School,Yes
+1951,Student_951,17,Male,9th,Sunrise Academy,57.0,35.0,45.0,57.0,49.0,3.2,85.2,Group A,Yes,,No
+1952,Student_952,16,Female,10th,National Grammar,65.0,64.0,83.0,71.0,86.0,4.5,69.3,None,Yes,None,No
+1953,Student_953,17,Female,9th,Greenwood High,45.0,37.0,47.0,98.0,88.0,6.4,72.2,None,Yes,Bachelor,Yes
+1954,Student_954,18,Male,9th,City Public School,43.0,55.0,63.0,30.0,54.0,6.6,99.6,Group C,No,None,Yes
+1955,Student_955,14,Female,9th,Sunrise Academy,83.0,83.0,61.0,68.0,87.0,7.7,66.1,Group C,Yes,None,No
+1956,Student_956,14,Male,12th,National Grammar,90.0,96.0,58.0,46.0,69.0,6.7,77.8,Group B,No,None,No
+1957,Student_957,18,Female,9th,Sunrise Academy,68.0,,76.0,64.0,78.0,4.7,93.0,Group B,Yes,Bachelor,Yes
+1958,Student_958,18,Male,12th,National Grammar,,49.0,57.0,75.0,81.0,1.8,65.8,Group B,Yes,High School,No
+1959,Student_959,16,Female,9th,Sunrise Academy,73.0,86.0,70.0,71.0,74.0,1.2,73.7,Group A,Yes,High School,No
+1960,Student_960,14,Male,9th,City Public School,56.0,80.0,76.0,68.0,51.0,0.9,82.7,Group B,Yes,Master,Yes
+1961,Student_961,17,Male,9th,City Public School,82.0,59.0,69.0,78.0,50.0,5.5,76.7,Group A,Yes,High School,Yes
+1962,Student_962,15,Female,10th,Greenwood High,82.0,55.0,96.0,91.0,98.0,6.6,75.7,Group A,No,High School,Yes
+1963,Student_963,15,Male,12th,Greenwood High,92.0,39.0,81.0,67.0,99.0,,71.3,Group B,Yes,Master,No
+1964,Student_964,18,Female,12th,National Grammar,,81.0,72.0,52.0,47.0,0.9,81.4,Group B,Yes,High School,No
+1965,Student_965,16,Female,9th,City Public School,41.0,52.0,49.0,51.0,57.0,4.5,,Group A,No,,No
+1966,Student_966,15,Male,9th,Sunrise Academy,73.0,55.0,76.0,33.0,47.0,7.5,84.4,Group C,No,None,Yes
+1967,Student_967,14,Female,10th,Sunrise Academy,94.0,57.0,51.0,78.0,70.0,,58.2,None,Yes,,No
+1968,Student_968,18,Female,10th,Sunrise Academy,47.0,98.0,93.0,88.0,68.0,6.6,83.4,None,Yes,High School,No
+1969,Student_969,17,Female,10th,Greenwood High,52.0,74.0,69.0,97.0,97.0,6.5,97.9,None,Yes,Bachelor,No
+1970,Student_970,18,Female,12th,Sunrise Academy,81.0,44.0,66.0,31.0,50.0,7.5,79.3,Group C,Yes,High School,Yes
+1971,Student_971,17,Female,12th,Greenwood High,,86.0,78.0,78.0,87.0,6.3,87.2,Group A,No,High School,No
+1972,Student_972,18,Male,12th,Greenwood High,69.0,95.0,48.0,60.0,93.0,6.1,80.1,Group B,Yes,Bachelor,Yes
+1973,Student_973,18,Female,9th,National Grammar,71.0,98.0,93.0,69.0,86.0,2.3,93.5,Group A,Yes,Master,No
+1974,Student_974,18,Female,12th,Sunrise Academy,75.0,39.0,60.0,77.0,56.0,0.9,,Group A,No,None,No
+1975,Student_975,17,Female,11th,Sunrise Academy,86.0,87.0,51.0,80.0,93.0,4.4,63.3,Group B,No,Bachelor,Yes
+1976,Student_976,17,Female,11th,City Public School,69.0,89.0,94.0,72.0,80.0,1.4,74.7,Group C,Yes,High School,No
+1977,Student_977,18,Female,10th,National Grammar,40.0,71.0,68.0,84.0,46.0,7.7,72.7,None,No,Bachelor,Yes
+1978,Student_978,15,Male,12th,City Public School,,90.0,72.0,78.0,55.0,2.7,73.2,None,Yes,,No
+1979,Student_979,16,Female,11th,National Grammar,78.0,93.0,82.0,86.0,83.0,6.9,60.6,Group A,Yes,Bachelor,Yes
+1980,Student_980,16,Male,10th,Sunrise Academy,56.0,93.0,92.0,44.0,78.0,3.4,91.6,Group C,No,High School,No
+1981,Student_981,16,Male,12th,Greenwood High,98.0,,54.0,56.0,70.0,2.9,56.6,None,Yes,High School,No
+1982,Student_982,17,Male,9th,Greenwood High,59.0,99.0,41.0,97.0,62.0,7.5,78.8,Group C,Yes,None,Yes
+1983,Student_983,17,Male,11th,Greenwood High,63.0,94.0,91.0,93.0,65.0,3.2,84.8,Group B,Yes,High School,Yes
+1984,Student_984,15,Female,9th,Greenwood High,89.0,85.0,78.0,59.0,80.0,3.4,64.3,Group A,Yes,Master,Yes
+1985,Student_985,16,Male,12th,Greenwood High,61.0,64.0,92.0,65.0,84.0,1.3,,Group A,Yes,Master,Yes
+1986,Student_986,16,Male,11th,City Public School,68.0,45.0,83.0,96.0,96.0,,92.7,Group C,Yes,Bachelor,Yes
+1987,Student_987,18,Female,12th,National Grammar,61.0,73.0,93.0,78.0,90.0,2.7,76.2,None,Yes,High School,No
+1988,Student_988,17,Female,9th,Sunrise Academy,83.0,97.0,57.0,84.0,88.0,4.9,73.5,Group C,Yes,High School,No
+1989,Student_989,16,Female,11th,City Public School,48.0,98.0,42.0,85.0,66.0,4.9,65.6,Group B,Yes,,No
+1990,Student_990,15,Male,9th,National Grammar,76.0,95.0,46.0,97.0,97.0,5.9,,None,No,Master,Yes
+1991,Student_991,15,Female,12th,Greenwood High,49.0,88.0,82.0,73.0,74.0,6.1,60.9,None,Yes,Bachelor,No
+1992,Student_992,16,Female,12th,National Grammar,75.0,92.0,57.0,60.0,94.0,4.4,85.6,Group C,Yes,Bachelor,No
+1993,Student_993,17,Male,9th,National Grammar,76.0,90.0,83.0,87.0,87.0,3.0,92.9,Group B,Yes,Master,Yes
+1994,Student_994,15,Female,11th,Greenwood High,67.0,68.0,77.0,82.0,74.0,6.8,,None,Yes,Master,Yes
+1995,Student_995,18,Female,9th,Greenwood High,67.0,65.0,76.0,52.0,52.0,2.8,94.0,Group A,No,High School,Yes
+1996,Student_996,15,Female,12th,Greenwood High,,86.0,97.0,57.0,78.0,4.3,56.5,Group B,Yes,None,No
+1997,Student_997,14,Female,9th,Sunrise Academy,82.0,35.0,72.0,45.0,91.0,3.5,96.1,None,Yes,,Yes
+1998,Student_998,14,Male,12th,Greenwood High,60.0,89.0,83.0,66.0,53.0,6.9,60.3,Group C,Yes,Bachelor,No
+1999,Student_999,17,Female,9th,Sunrise Academy,63.0,56.0,98.0,50.0,95.0,3.7,84.1,None,Yes,High School,Yes
+2000,Student_1000,16,Female,11th,Greenwood High,81.0,74.0,70.0,46.0,64.0,3.4,66.3,Group A,Yes,High School,No
+1839,Student_839,16,Female,11th,City Public School,67.0,93.0,56.0,87.0,48.0,6.5,88.2,Group C,Yes,,No
+1875,Student_875,14,Female,11th,National Grammar,86.0,99.0,89.0,69.0,62.0,0.6,74.0,Group A,Yes,Bachelor,No
+1785,Student_785,18,Male,10th,City Public School,,50.0,43.0,38.0,89.0,5.1,59.7,Group C,Yes,Bachelor,Yes
+1514,Student_514,17,Female,9th,Greenwood High,92.0,63.0,96.0,75.0,83.0,6.5,61.9,Group A,No,Bachelor,Yes
+1386,Student_386,14,Male,9th,National Grammar,74.0,63.0,91.0,87.0,79.0,3.6,62.4,Group B,Yes,Bachelor,Yes
+1570,Student_570,16,Male,9th,Sunrise Academy,88.0,94.0,97.0,50.0,49.0,1.5,63.5,Group A,No,None,No
+1067,Student_67,15,Male,11th,National Grammar,57.0,83.0,53.0,72.0,54.0,5.2,59.4,Group C,Yes,Bachelor,No
+1129,Student_129,18,Female,10th,City Public School,76.0,75.0,78.0,67.0,86.0,,77.9,Group B,Yes,Bachelor,No
+1363,Student_363,17,Male,10th,Sunrise Academy,50.0,97.0,93.0,76.0,91.0,1.3,90.2,Group A,No,Bachelor,Yes
+1385,Student_385,18,Male,12th,Greenwood High,84.0,91.0,45.0,46.0,89.0,3.2,86.3,Group A,Yes,,No
+1919,Student_919,18,Female,10th,Greenwood High,83.0,97.0,70.0,67.0,56.0,4.3,76.1,Group B,Yes,Bachelor,No
+1245,Student_245,16,Female,10th,Greenwood High,99.0,60.0,94.0,42.0,64.0,4.0,92.7,Group C,Yes,None,Yes
+1208,Student_208,16,Male,9th,Greenwood High,95.0,92.0,81.0,74.0,83.0,4.7,75.7,Group B,Yes,Master,Yes
+1222,Student_222,14,Male,12th,Greenwood High,,60.0,49.0,69.0,53.0,3.9,65.0,None,Yes,Bachelor,Yes
+1511,Student_511,16,Male,11th,Greenwood High,93.0,93.0,55.0,73.0,71.0,4.6,72.6,None,No,Bachelor,No
+1752,Student_752,17,Male,10th,City Public School,99.0,74.0,51.0,96.0,70.0,4.4,96.1,Group B,Yes,High School,No
+1037,Student_37,16,Male,10th,National Grammar,40.0,60.0,93.0,67.0,52.0,7.3,76.7,None,Yes,High School,Yes
+1247,Student_247,17,Female,9th,Greenwood High,74.0,87.0,64.0,42.0,99.0,5.6,67.4,Group A,Yes,High School,Yes
+1134,Student_134,18,Female,10th,National Grammar,62.0,97.0,95.0,64.0,91.0,5.8,94.5,None,Yes,None,Yes
+1925,Student_925,16,Male,11th,National Grammar,89.0,90.0,85.0,72.0,70.0,0.6,83.4,None,Yes,None,Yes
+1165,Student_165,16,Male,9th,City Public School,87.0,78.0,62.0,50.0,62.0,4.4,95.6,Group A,Yes,Bachelor,Yes
+1904,Student_904,17,Female,9th,Greenwood High,57.0,77.0,98.0,60.0,88.0,1.8,85.1,None,No,,Yes
+1718,Student_718,15,Male,10th,Greenwood High,93.0,44.0,84.0,82.0,84.0,6.1,59.2,None,No,Bachelor,Yes
+1884,Student_884,16,Male,11th,City Public School,59.0,90.0,73.0,79.0,95.0,5.8,80.4,Group A,Yes,None,Yes
+1931,Student_931,15,Female,12th,Greenwood High,80.0,60.0,69.0,80.0,95.0,5.0,83.7,Group B,No,Bachelor,No
+1123,Student_123,18,Female,10th,Greenwood High,82.0,73.0,47.0,57.0,46.0,7.6,68.2,Group C,Yes,Bachelor,Yes
+1020,Student_20,17,Female,12th,City Public School,56.0,99.0,56.0,74.0,78.0,3.8,,Group A,Yes,Master,Yes
+1090,Student_90,16,Female,11th,National Grammar,68.0,84.0,63.0,55.0,63.0,7.4,79.2,Group A,Yes,Bachelor,No
+1404,Student_404,18,Male,9th,National Grammar,86.0,62.0,68.0,51.0,46.0,0.8,66.4,Group A,Yes,High School,Yes
+1359,Student_359,14,Female,10th,Greenwood High,,57.0,71.0,65.0,72.0,,95.6,Group C,Yes,High School,Yes

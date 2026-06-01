@@ -1,4 +1,4 @@
-# 🎓 Student Performance Data Analysis
+# Student Performance Data Analysis
 
 **Week 2 Internship Task** — Data Analysis with Python
 
@@ -9,16 +9,16 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a complete **real-world data analysis workflow** on a Student Performance dataset containing **1,000+ records** with 17 features including subject scores, attendance, study habits, and demographic information.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
-Week2-Data-Analysis-Project/
+DawoodTech_Week2/
 │
 ├── data/
 │   ├── student_performance.csv          ← Raw dataset
@@ -45,7 +45,7 @@ Week2-Data-Analysis-Project/
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 | Column | Description |
 |--------|-------------|
@@ -64,12 +64,12 @@ Week2-Data-Analysis-Project/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Week2-Data-Analysis-Project.git
-cd Week2-Data-Analysis-Project
+git clone https://github.com/Hassanmahmood4/DawoodTech_Week2.git
+cd DawoodTech_Week2
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -83,23 +83,23 @@ streamlit run app.py
 
 ---
 
-## 📋 What Was Done
+## What Was Done
 
 ### Part 2 – Data Cleaning
-- ✅ Removed **30 duplicate records**
-- ✅ Handled **missing values** using median/mean/mode imputation
-- ✅ Renamed columns for clarity
-- ✅ Fixed data types (student_id → str, age → int)
-- ✅ Dropped the `name` column (not analytically useful)
-- ✅ Created derived column: `Avg_Score`
+- Removed **30 duplicate records**
+- Handled **missing values** using median/mean/mode imputation
+- Renamed columns for clarity
+- Fixed data types (student_id → str, age → int)
+- Dropped the `name` column (not analytically useful)
+- Created derived column: `Avg_Score`
 
 ### Part 3 – Data Analysis
-- ✅ Total records, grade distribution
-- ✅ Subject-wise averages, min, max
-- ✅ Top and bottom performers
-- ✅ Gender-wise, grade-wise, school-wise analysis
-- ✅ Correlation analysis (Study Hours ↔ Avg Score)
-- ✅ Parent education impact
+- Total records, grade distribution
+- Subject-wise averages, min, max
+- Top and bottom performers
+- Gender-wise, grade-wise, school-wise analysis
+- Correlation analysis (Study Hours ↔ Avg Score)
+- Parent education impact
 
 ### Part 4 – Visualizations
 | # | Chart Type | Insight |
@@ -112,16 +112,16 @@ streamlit run app.py
 | 6 | Box Plot | Score spread across grades |
 
 ### Part 5 – Streamlit Dashboard
-- ✅ Dataset preview with download button
-- ✅ Statistical summary (3 tabs)
-- ✅ 8+ interactive charts
-- ✅ Sidebar filters: Gender, Grade, School, Internet, Attendance %, Study Hours
-- ✅ Dynamic comparison chart (Bonus)
-- ✅ KPI cards
+- Dataset preview with download button
+- Statistical summary (3 tabs)
+- 8+ interactive charts
+- Sidebar filters: Gender, Grade, School, Internet, Attendance %, Study Hours
+- Dynamic comparison chart (Bonus)
+- KPI cards
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 
 - **Art** has the highest average score; **History** the lowest
 - Students studying **4–6 hours/day** perform best
@@ -131,7 +131,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Bonus Features Implemented
+## Bonus Features Implemented
 
 - [x] Dashboard filters (sidebar)
 - [x] Export/download filtered CSV
@@ -141,7 +141,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.10+**
 - **Pandas** — Data manipulation
@@ -153,7 +153,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+## Author
 
 Intern — Week 2 Data Analysis Task  
 *Part of the Machine Learning & Data Science Internship Program*

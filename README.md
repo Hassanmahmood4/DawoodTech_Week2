@@ -85,6 +85,12 @@ streamlit run app.py
 
 ## What Was Done
 
+### Part 1 – Dataset
+- Loaded the raw dataset from `data/student_performance.csv`
+- Used a synthetically generated **Student Performance** dataset (1,000+ records) modeled after real-world Kaggle-style education data
+- Performed initial inspection: record count, shape, preview (`head()`), and column overview
+- Documented all features (scores, attendance, study habits, demographics, and socioeconomic fields)
+
 ### Part 2 – Data Cleaning
 - Removed **30 duplicate records**
 - Handled **missing values** using median/mean/mode imputation
